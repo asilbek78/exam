@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "nav": "Menu",
+    "nav2": "About Us",
+    "nav3": "News",
+    "nav4": "Featured",
+    "nav5": "Login",
+    "nav6":"Vacancy"
+  },
+  "homeh1": {
+    "nom": "All of these dishes are 30% off !!!"
+  },
+  "footers": {
+    "h1": "About Us",
+    "h4": "Afsona Restaurant stands out with the perfect combination of modern and traditional dishes. Guests enjoy exquisite meals at Afsona Restaurant!!!",
+    "h21": "Menu",
+    "li": "Uzbek National Dishes",
+    "li1": "Turkish Dishes",
+    "li2": "Japanese Dishes",
+    "li3": "Seafood"
+  },
+  "news": {
+    "h1": "Afsona News",
+    "p": "Every week, our restaurant has new dishes, special discounts, and great promotions waiting for you! Stay with us to enjoy the delicious news! Don't miss out on our updates! Follow us to stay informed about the latest offers and special events!",
+    "h2": "Take advantage of this opportunity and purchase your favorite dishes at a lower price! In celebration of the Ramadan month, Afsona Restaurant has launched a big discount. You can buy every dish with a 30% discount!!!",
+    "p1": "Don't miss this opportunity!!!",
+    "btn": "Order Now",
+    "h3": "New Online Order System and Smart Payment Development",
+    "p2": "Our restaurant is starting the process of creating new smart technologies. Our goal is to provide more convenient and efficient service to our customers. These new systems are designed to better meet the needs of our customers and save time in our restaurant. In the first stage, a new online order system will be developed. Through this system, our customers will be able to choose their desired dishes and place orders easily from home or office via the internet.",
+    "p3": "The online system will offer users an intuitive interface and easy navigation, allowing for quick orders. We are also working on creating a smart payment system. With this system, our customers will be able to make secure and fast payments not only in cash but also via mobile phones or bank cards. These innovations will simplify the payment process in our restaurant, creating maximum convenience for customers.",
+    "p4": "With the creation of the online order system, our customers will be able to place orders online from anywhere at any time. The system will have an intuitive interface that helps meet every customer's needs. Now, without coming to the restaurant, ordering your favorite dishes to your home will be very easy and convenient.",
+    "h4": "New Dishes Added to the Afsona Menu",
+    "h5": "Big Discounts During Ramadan",
+    "h6": "New Chefs Have Been Hired at Our Restaurant",
+    "h7": "Your purchase was successfully completed!",
+    "p5": "Great news in the news section of Afsona Restaurant! We constantly update our menu, and now you can enjoy new Uzbek and Turkish dishes. New lahmacun, chicken kebab, and many other delicious dishes are waiting for you. Additionally, from March 14th to April 1st, we are offering a 30% discount on all our dishes! Don’t miss out on special discounts and promotions! We are happy to welcome you to our restaurant, where a cozy and friendly atmosphere awaits you. Stay tuned to catch our new offers and weekly updates."
+  },
+  "home": {
+    "h1": "This Video About Afsona Restaurant!",
+    "h2": "Please fill in all the fields!",
+    "h3": "There was an error,",
+    "h4": "Have questions?",
+    "h5": "Enter your name",
+    "h6": "Enter your number (884347808)",
+    "h7": "Write your questions",
+    "h8": "Submit",
+    "h9": "Your Name",
+    "h10": "Phone Number",
+    "h11": "Questions",
+    "h12":"Enter your opinion about our restaurant!",
+    "h13":"To write a review...",
+    "h14":"Written reviews:"
+  },
+  "menu": {
+    "h1": "Afsona Menu",
+    "p": "We serve you with delicious and unique dishes! Our menu features national and international dishes prepared from fresh and high-quality ingredients. Each dish is made using a special recipe to provide our guests with an unforgettable taste. Feel the taste and quality – enjoy delightful moments with us!",
+    "h2": "Turkish National Dishes",
+    "h3": "Halal Japanese Dishes",
+    "h4": "Halal Seafood Dishes",
+    "btn": "Go Back"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "ozbektaomlar": [
+    {
+      "id": 1,
+      "title": "Palov",
+      "price": 50000,
+      "desc": "Guruch, go‘sht, sabzi va ziravorlar bilan tayyorlanadi",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 2,
+      "title": "Manti",
+      "price": 10000,
+      "desc": "Bug‘da pishirilgan xamir ichida go‘sht hamda sabzavotlar.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 3,
+      "title": "Shurva",
+      "price": 25000,
+      "desc": "Go‘shtli va sabzavotli to‘yimli sho‘rva.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 4,
+      "title": "Somsa",
+      "price": 12000,
+      "desc": "Go‘sht va kartoshkali qatlama xamirli pishiriq",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 5,
+      "title": "Chuchvara",
+      "price": 50000,
+      "desc": "O‘zbekcha pelmen, qaynoq sho‘rva ichida beriladi",
+      "image": "../public/Footer/Rectangle 6.png"
+    }
+  ],
+  "Turk taomlari": [
+    {
+      "id": 1,
+      "title": "Kabob",
+      "price": 20000,
+      "desc": "Halol go‘shtdan tayyorlangan mashhur grill taomlar",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Lahmajun",
+      "price": 30000,
+      "desc": "Yupqa non ustiga go‘sht va sabzavotli aralashma surtilgan turkcha pizza.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Menemen",
+      "price": 40000,
+      "desc": "Tuxum, pomidor va bulg‘or qalampiri bilan qilingan nonushta taomi.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Qizil yasmiq sho‘rvasi ",
+      "price": 20000,
+      "desc": "Qizil yasmiqdan tayyorlangan sog‘lom sho‘rva",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Hamsi palov",
+      "price": 40000,
+      "desc": "Guruch va hamsi baliqli pishirilgan turk taomi.",
+      "image": "../public/Footer/Rectangle 6.png"
+    }
+  ],
+  "Fransuz taomlari": [
+    {
+      "id": 1,
+      "title": "Ratatuy",
+      "price": 20000,
+      "desc": "Sabzavotlardan tayyorlangan mashhur fransuz taomi.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Sharbatda pishirilgan tovuq",
+      "price": 50000,
+      "desc": "Halol tovuq go‘shti, sabzavot va sharbatlarda pishirilgan taom.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Piyoz sho‘rvasi",
+      "price": 20000,
+      "desc": "Piyoz va ziravorlar bilan tayyorlangan taom.",
+      "image": "../public/Footer/Rectangle 6.png"
+    }
+  ],
+  "Dengiz": [
+    {
+      "id": 1,
+      "title": "Panjara qilingan losos",
+      "price": 30000,
+      "desc": "Losos baliq panjara yoki tandirda tayyorlangan.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Tonna bifshteksi",
+      "price": 40000,
+      "desc": "Tonna baliq go‘shtidan qilingan bifshteks.",
+      "image": "../public/Footer/Rectangle 6.png"
+    },
+    {
+      "id": 1,
+      "title": "Sarimsoqli qisqichbaqa",
+      "price": 20000,
+      "desc": "Sarimsoq va yog‘ bilan qovurilgan qisqichbaqa.",
+      "image": "../public/Footer/Rectangle 6.png"
+    }
+  ]
+}

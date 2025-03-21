@@ -1,0 +1,1240 @@
+{
+  "ideah": [
+    {
+      "h1": {
+        "uz": "Foydalanuvchilar fikri",
+        "en": "User feedback",
+        "ru": "Отзывы пользователей"
+      },
+      "p": {
+        "uz": "Afsona Restorani platformasi haqida foydalanuvchilarning fikrlari",
+        "en": "User reviews about the Afsona Restaurant platform",
+        "ru": "Отзывы пользователей о платформе ресторана Афсона"
+      }
+    }
+  ],
+  "sharhlar": [
+    {
+      "name": {
+        "uz": "Aziz Bo`riyev",
+        "en": "Aziz Bo`riyev",
+        "ru": "Азиз Бориёв"
+      },
+      "desc": {
+        "uz": "92-Maktab Rahbari",
+        "en": "Principal of School No.92",
+        "ru": "Директор школы №92"
+      },
+      "idea": {
+        "uz": "Saytdagi tasvirlar ishtahani ochadigan darajada jozibali va yuqori sifatli! Taomlarning real ko‘rinishi bilan tanishish juda yoqimli. Saytdan ovqat buyurtma berib ko‘rdim – jarayon juda tez va silliq ishladi. Hozir esa ushbu platforma orqali muntazam ravishda ovqat zakaz qilmoqdaman. Online buyurtma qilish tizimi qulay va intuitiv, hammasi juda soddalashtirilgan. Saytdan foydalanishdan faqat zavq oldim! Hammasi zo‘r!",
+        "en": "The images on the website are so attractive and high-quality that they stimulate the appetite! It’s very enjoyable to see the real appearance of the dishes. I tried ordering food from the website – the process was very fast and smooth. Now, I regularly order food through this platform. The online ordering system is convenient and intuitive, everything is simplified. I only got pleasure from using the website! Everything is great!",
+        "ru": "Изображения на сайте настолько привлекательные и высокого качества, что они возбуждают аппетит! Очень приятно увидеть реальное изображение блюд. Я попробовал заказать еду через сайт — процесс был очень быстрым и гладким. Сейчас я регулярно заказываю еду через эту платформу. Система онлайн-заказов удобная и интуитивно понятная, все очень упрощено. Я получил только удовольствие от использования сайта! Все отлично!"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/p1%20(1).png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3AxICgxKS5wbmciLCJpYXQiOjE3NDE4NDgwMTgsImV4cCI6MTc3MzM4NDAxOH0.gOThwrp2VF9S807YMVVoBz_Ku6ElwIb7U3sToCVfR8o"
+    },
+    {
+      "name": {
+        "uz": "Uktam Sultonov",
+        "en": "Uktam Sultonov",
+        "ru": "Уктам Султонов"
+      },
+      "desc": {
+        "uz": "Makrid MFY Raisi",
+        "en": "Chairman of Makrid MFY",
+        "ru": "Председатель Макридского МФY"
+      },
+      "idea": {
+        "uz": "Sayt juda qulay va professional. Taomlarning har biri juda yaxshi tasvirlangan va narxlar aniq ko‘rsatilgan. Birinchi marta buyurtma berdim va jarayon juda tez va oson bo‘ldi. Online buyurtma tizimi juda intuitiv va foydalanuvchilar uchun qulay. Endi saytdan muntazam ravishda ovqat zakaz qilib turaman. Xizmat va sifat juda yuqori, tavsiya qilaman!",
+        "en": "The website design is very beautiful and extremely user-friendly. The dishes on the menu are wonderfully illustrated, and the prices are clearly displayed. I tried placing an order for the first time, and everything went very quickly and smoothly. Ordering food through the website is very easy and convenient! I now use the site regularly because the service level is very high, and the user experience is excellent. Perfect service!",
+        "ru": "Дизайн сайта очень красивый и чрезвычайно удобный для пользователя. Блюда в меню прекрасно изображены, а цены четко указаны. Я сделал заказ впервые, и все прошло очень быстро и гладко. Заказать еду через сайт очень легко и удобно! Сейчас я регулярно использую сайт, потому что уровень обслуживания очень высок, а пользовательский опыт отличный. Идеальное обслуживание!"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/sharh2.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3NoYXJoMi5wbmciLCJpYXQiOjE3NDE4NDgxMzksImV4cCI6MTc3MzM4NDEzOX0.D881ygGIZ70yynAQP3aY7FlO8xNqd4YRFLIQSRvWW-Y"
+    },
+    {
+      "name": {
+        "uz": "Leyla Isayeva",
+        "en": "Leyla Isayeva",
+        "ru": "Лейла Исаева"
+      },
+      "desc": {
+        "uz": "Dezayner",
+        "en": "Designer",
+        "ru": "Дизайнер"
+      },
+      "idea": {
+        "uz": "Sayt juda qulay va professional. Taomlarning har biri juda yaxshi tasvirlangan va narxlar aniq ko‘rsatilgan. Birinchi marta buyurtma berdim va jarayon juda tez va oson bo‘ldi. Online buyurtma tizimi juda intuitiv va foydalanuvchilar uchun qulay. Endi saytdan muntazam ravishda ovqat zakaz qilib turaman. Xizmat va sifat juda yuqori, tavsiya qilaman!",
+        "en": "The website design is very beautiful and extremely user-friendly. The dishes on the menu are wonderfully illustrated, and the prices are clearly displayed. I tried placing an order for the first time, and everything went very quickly and smoothly. Ordering food through the website is very easy and convenient! I now use the site regularly because the service level is very high, and the user experience is excellent. Perfect service!",
+        "ru": "Дизайн сайта очень красивый и чрезвычайно удобный для пользователя. Блюда в меню прекрасно изображены, а цены четко указаны. Я сделал заказ впервые, и все прошло очень быстро и гладко. Заказать еду через сайт очень легко и удобно! Сейчас я регулярно использую сайт, потому что уровень обслуживания очень высок, а пользовательский опыт отличный. Идеальное обслуживание!"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/sharh3.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3NoYXJoMy5wbmciLCJpYXQiOjE3NDE4NDgxNjQsImV4cCI6MTc3MzM4NDE2NH0.xdHvNmtvL8odIn9qPDu1-awu53qz1dCJ0DqEIMMTJzM"
+    }
+  ],
+  "otish": [
+    {
+      "h1": {
+        "uz": "Dunyoning mazali ta'omlari",
+        "en": "The world's delicious dishes",
+        "ru": "Вкусные блюда мира"
+      },
+      "h11": {
+        "uz": "Sizni kutmoqda",
+        "en": "Waiting for you",
+        "ru": "Ждем вас"
+      },
+      "p": {
+        "uz": "Bizning restoranimizda sizni turli mamlakatlarda pishadigan eng mashhur va mazali taomlar kutmoqda. Har bir taom o‘ziga xos ta‘mi bilan sizni yangi gastronomik sayohatga olib boradi!",
+        "en": "In our restaurant, the most famous and delicious dishes cooked in different countries await you. Each dish, with its unique taste, will take you on a new gastronomic journey!",
+        "ru": "В нашем ресторане вас ждут самые известные и вкусные блюда, приготовленные в разных странах. Каждое блюдо с уникальным вкусом отведет вас в новое гастрономическое путешествие!"
+      },
+      "btn": {
+        "uz": "Menuga o'tish",
+        "en": "View the menu",
+        "ru": "Посмотреть меню"
+      }
+    }
+  ],
+  "homeswiper": [
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzMuanBnIiwiaWF0IjoxNzQxODQxNTM4LCJleHAiOjE3NzMzNzc1Mzh9.WimfbBiNEJD1ywZtL3HTnNwgoO750mfIHmthGKaXDCU"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzIuanBnIiwiaWF0IjoxNzQxODQxMDM5LCJleHAiOjE3NzMzNzcwMzl9.ELV-gCS9GTrB-xdmqHs29E5n8pfV3_mxmLOGf9TPrnM"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/1.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzEud2VicCIsImlhdCI6MTc0MTg0MDcxMCwiZXhwIjoxNzczMzc2NzEwfQ.PCWapmy0UuR2FMnUnD6r8OGuQcNLKzISd1uvjJOnUbo"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzQuanBnIiwiaWF0IjoxNzQxODQxNjczLCJleHAiOjE3NzMzNzc2NzN9.x_3yhisEFhD3FjT5xbvRCvORQ1ZmoIdLlNs3M6nEpK8"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzEuanBnIiwiaWF0IjoxNzQxODM5NzQzLCJleHAiOjE3NzMzNzU3NDN9.4Mc6OEXsZYm6nL6hXkGTJ6E3ljKVeSLZ4-6R5mftbuA"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzMuanBnIiwiaWF0IjoxNzQxODQxNzgyLCJleHAiOjE3NzMzNzc3ODJ9.przte3o-52cdilIT9CFXo84wAHRdAgibTlZP-CCfYhA"
+    }
+  ],
+  "homefood": [
+    {
+      "url":"afsona-shurvasi",
+      "name": {
+        "uz": "Afsona Shurvasi",
+        "en": "Afsona Soup",
+        "ru": "Шурва Афсона"
+      },
+      "desc": {
+        "uz": "Boy ta'mga ega, sabzavotlar va go'sht bilan tayyorlangan, iliq va to'yimli sho'rva.",
+        "en": "A rich, warm, and hearty soup made with vegetables and meat, full of flavor.",
+        "ru": "Богатый, теплый и сытный суп, приготовленный с овощами и мясом, полный вкуса."
+      },
+      "price1": "31 000",
+      "price2": "20 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3MxLmpwZyIsImlhdCI6MTc0MTg0NTY3MSwiZXhwIjoxNzczMzgxNjcxfQ.newMxJgHQlA1OFrmK8Wm11VrzO9wNVzNv4X0ZqLFMYM"
+    },
+    {
+      "url":"afsona-osh",
+      "name": {
+        "uz": "Afsona Osh ",
+        "en": "Afsona Palov",
+        "ru": "Плов Афсона"
+      },
+      "desc": {
+        "uz": "Ushbu taom, o'zining mazali ziravorlari va go'shti bilan, to'yimli va iliq tarzda tayyorlangan.",
+        "en": "This dish is a traditional plov, made hearty and warm with its delicious spices and meat.",
+        "ru": "Это традиционный плов, приготовленный с восхитительными специями и мясом, сытный и теплый."
+      },
+      "price1": "50 000",
+      "price2": "35000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3MyLmpwZyIsImlhdCI6MTc0MTg0NTgzMSwiZXhwIjoxNzczMzgxODMxfQ.dNd4AB3ZSyrNRz4Za0VaWhIPi36vo1vp03-i-uqCqq4"
+    },
+    {
+      "url":"afsona-manti",
+      "name": {
+        "uz": "Afsona Manti",
+        "en": "Afsona Manti",
+        "ru": "Манты Афсона"
+      },
+      "desc": {
+        "uz": "Mazali go'sht yoki sabzavot bilan to'ldirilgan, yumshoq va nozik xamirda tayyorlangan an'anaviy manti.",
+        "en": "Traditional dumplings filled with delicious meat or vegetables, made with soft and delicate dough.",
+        "ru": "Традиционные пельмени, наполненные вкусным мясом или овощами, приготовленные из мягкого и нежного теста."
+      },
+      "price1": "12 000",
+      "price2": "8 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s3.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3MzLnBuZyIsImlhdCI6MTc0MTg0NTg0MiwiZXhwIjoxNzczMzgxODQyfQ.IgHgQQpzKCSLjerxFTrcicgIcWajbuNz8vDOXaCb5II"
+    },
+    {
+      "url":"afsona-baliq",
+      "name": {
+        "uz": "Afsona Baliq",
+        "en": "Afsona Fish",
+        "ru": "Рыба Афсана"
+      },
+      "desc": {
+        "uz": "Afsona Baliqi - ajoyib va nozik baliq taomi. Yengil ziravorlar bilan tayyorlanadi.",
+        "en": "Myth Fish - a wonderful and delicate fish dish. Prepared with light spices.",
+        "ru": "Рыба 'Афсана' — великолепное и нежное рыбное блюдо. Готовится с легкими приправами."
+      },
+      "price1": "95 000",
+      "price2": "80 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M0LmpwZyIsImlhdCI6MTc0MTg0NTg2NywiZXhwIjoxNzczMzgxODY3fQ.GIbUXA53-DR_WNZqtM7KQ21DLKG4JK2Cquuh-mnMfGg"
+    },
+    {
+      "url":"afsonaviy-urama-burak",
+      "name": {
+        "uz": "Afsonaviy O'rama Bo'rak",
+        "en": "Afsona Wrapped Borek",
+        "ru": "Борек в Обертке Афсона"
+      },
+      "desc": {
+        "uz": "Yumshoq xamir ichida, go'sht, sabzavot yoki pishloq bilan to'ldirilgan, an'anaviy turk taomi bo'rak.",
+        "en": "A traditional Turkish dish, wrapped in soft dough, filled with meat, vegetables, or cheese.",
+        "ru": "Традиционное турецкое блюдо, завернутое в мягкое тесто, с начинкой из мяса, овощей или сыра."
+      },
+      "price1": "20 000",
+      "price2": "15 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s5%20O'rama%20%20bo'rak.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M1IE8ncmFtYSAgYm8ncmFrLndlYnAiLCJpYXQiOjE3NDE4NDU4ODAsImV4cCI6MTc3MzM4MTg4MH0.xTp9_MJQsgfca6gZtWbdwXHnAwdVSZzOPFnbiNW0TPg"
+    },
+    {
+      "url":"afsonaviy-lahmakun",
+      "name": {
+        "uz": "Afsonaviy Lahmakun",
+        "en": "Afsona Lahmacun",
+        "ru": "Лахмакун Афсона"
+      },
+      "desc": {
+        "uz": "Injirik qovurilgan lavaş ustida, go'sht, sabzavotlardan an'anaviy turk taomi lahmakun.",
+        "en": "A traditional Turkish dish, lahmacun is a flatbread topped with minced meat, vegetables,",
+        "ru": "Традиционное турецкое блюдо, лахмакун - лепешка с начинкой из рубленого мяса, овощей и специй."
+      },
+      "price1": "45 000",
+      "price2": "38 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s6%20lahmakun.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M2IGxhaG1ha3VuLndlYnAiLCJpYXQiOjE3NDE4NDU4OTMsImV4cCI6MTc3MzM4MTg5M30.NFJWkfCOwP1oIcFYLk07beZss3BBMJ_wb2n3Khb7i2E"
+    },
+    {
+      "url":"tovuq-kabob",
+      "name": {
+        "uz": "Afsona Tovuq Kabobi",
+        "en": "Afsona Chicken Kebab",
+        "ru": "Кебаб из Курицы Афсона"
+      },
+      "desc": {
+        "uz": "Grilda pishirilgan, ziravorlar bilan boyitilgan tovuq kabobi, sifatli go'shtdan tayyorlanadi.",
+        "en": "Grilled chicken kebab, enriched with spices and herbs, made from the highest quality meat.",
+        "ru": "Шашлык из курицы, приправленный специями и травами, приготовленный из мяса самого"
+      },
+      "price1": "23 000",
+      "price2": "18 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s7%20Tovuq%20kabobi.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M3IFRvdnVxIGthYm9iaS5qcGciLCJpYXQiOjE3NDE4NDU5NTEsImV4cCI6MTc3MzM4MTk1MX0.O8HKDaOLD-fQCMmzqIP9GVbbg0sTXJDdYHq5NLz5Tks"
+    },
+    {
+      "url":"afsonaviy-lagmon",
+      "name": {
+        "uz": "Afsonaviy Lag'mon",
+        "en": "Afsona Lagman",
+        "ru": "Лагман с Афсона"
+      },
+      "desc": {
+        "uz": "Go'sht va kukat bilan tayyorlangan to'yimli va mazali lag'mon.",
+        "en": "A hearty and delicious lagman made with meat and kukat.",
+        "ru": "Сытный и вкусный лагман, приготовленный с мясом и кукатом."
+      },
+      "price1": "27 000",
+      "price2": "22 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s8%20Xitoy%20Lag'moni.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M4IFhpdG95IExhZydtb25pLnBuZyIsImlhdCI6MTc0MTg0NTk4MywiZXhwIjoxNzczMzgxOTgzfQ.76isuc_V34DnXzeIBw7QVB_rP2ljdd13TeDY7SiAmV4"
+    },
+    {
+      "url":"qozon-kabob",
+      "name": {
+        "uz": "Afsona Qozon Kabobi",
+        "en": "Afsona Kazan Kebab",
+        "ru": "Кебаб в Казане Афсона"
+      },
+      "desc": {
+        "uz": "Qozonda pishirilgan, ziravorlar va go'sht bilan tayyorlangan mazali kabob.",
+        "en": "A delicious kebab cooked in a kazan, made with spices and meat.",
+        "ru": "Вкусный кебаб, приготовленный в казане, с приправами и мясом."
+      },
+      "price1": "32 000",
+      "price2": "26 000",
+      "btn": {
+        "uz": "Buyurtma berish",
+        "en": "Place Order",
+        "ru": "Оформить заказ"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s9%20Shurva.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M5IFNodXJ2YS5qcGciLCJpYXQiOjE3NDE4NDU5OTUsImV4cCI6MTc3MzM4MTk5NX0.qpXadd3bhWlcXD-SdBPqTXfCEhd8ZDhw7sFYDfycIDc"
+    }
+  ],
+  "footer": [
+    {
+      "h1": {
+        "uz": "Biz bilan bog‘laning",
+        "en": "Contact us",
+        "ru": "Свяжитесь с нами"
+      },
+      "num": "+998 88 434 78 08",
+      "h2": "@asilbekochilov778",
+      "h21": " @Akmalovich_783",
+      "h22": "Akmalovich_783"
+    }
+  ],
+  "aboutswiper": [
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzMuanBnIiwiaWF0IjoxNzQxODQxNTM4LCJleHAiOjE3NzMzNzc1Mzh9.WimfbBiNEJD1ywZtL3HTnNwgoO750mfIHmthGKaXDCU"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzIuanBnIiwiaWF0IjoxNzQxODQxMDM5LCJleHAiOjE3NzMzNzcwMzl9.ELV-gCS9GTrB-xdmqHs29E5n8pfV3_mxmLOGf9TPrnM"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/1.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzEud2VicCIsImlhdCI6MTc0MTg0MDcxMCwiZXhwIjoxNzczMzc2NzEwfQ.PCWapmy0UuR2FMnUnD6r8OGuQcNLKzISd1uvjJOnUbo"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzQuanBnIiwiaWF0IjoxNzQxODQxNjczLCJleHAiOjE3NzMzNzc2NzN9.x_3yhisEFhD3FjT5xbvRCvORQ1ZmoIdLlNs3M6nEpK8"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzEuanBnIiwiaWF0IjoxNzQxODM5NzQzLCJleHAiOjE3NzMzNzU3NDN9.4Mc6OEXsZYm6nL6hXkGTJ6E3ljKVeSLZ4-6R5mftbuA"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzMuanBnIiwiaWF0IjoxNzQxODQxNzgyLCJleHAiOjE3NzMzNzc3ODJ9.przte3o-52cdilIT9CFXo84wAHRdAgibTlZP-CCfYhA"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s9%20Shurva.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M5IFNodXJ2YS5qcGciLCJpYXQiOjE3NDE4NDU5OTUsImV4cCI6MTc3MzM4MTk5NX0.qpXadd3bhWlcXD-SdBPqTXfCEhd8ZDhw7sFYDfycIDc"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s5%20O'rama%20%20bo'rak.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M1IE8ncmFtYSAgYm8ncmFrLndlYnAiLCJpYXQiOjE3NDE4NDU4ODAsImV4cCI6MTc3MzM4MTg4MH0.xTp9_MJQsgfca6gZtWbdwXHnAwdVSZzOPFnbiNW0TPg"
+    }
+  ],
+  "newswiper": [
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzMuanBnIiwiaWF0IjoxNzQxODQxNTM4LCJleHAiOjE3NzMzNzc1Mzh9.WimfbBiNEJD1ywZtL3HTnNwgoO750mfIHmthGKaXDCU"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzIuanBnIiwiaWF0IjoxNzQxODQxMDM5LCJleHAiOjE3NzMzNzcwMzl9.ELV-gCS9GTrB-xdmqHs29E5n8pfV3_mxmLOGf9TPrnM"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/1.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzEud2VicCIsImlhdCI6MTc0MTg0MDcxMCwiZXhwIjoxNzczMzc2NzEwfQ.PCWapmy0UuR2FMnUnD6r8OGuQcNLKzISd1uvjJOnUbo"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzQuanBnIiwiaWF0IjoxNzQxODQxNjczLCJleHAiOjE3NzMzNzc2NzN9.x_3yhisEFhD3FjT5xbvRCvORQ1ZmoIdLlNs3M6nEpK8"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzEuanBnIiwiaWF0IjoxNzQxODM5NzQzLCJleHAiOjE3NzMzNzU3NDN9.4Mc6OEXsZYm6nL6hXkGTJ6E3ljKVeSLZ4-6R5mftbuA"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/hsw3.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL2hzdzMuanBnIiwiaWF0IjoxNzQxODQxNzgyLCJleHAiOjE3NzMzNzc3ODJ9.przte3o-52cdilIT9CFXo84wAHRdAgibTlZP-CCfYhA"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s9%20Shurva.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M5IFNodXJ2YS5qcGciLCJpYXQiOjE3NDE4NDU5OTUsImV4cCI6MTc3MzM4MTk5NX0.qpXadd3bhWlcXD-SdBPqTXfCEhd8ZDhw7sFYDfycIDc"
+    },
+    {
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s5%20O'rama%20%20bo'rak.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M1IE8ncmFtYSAgYm8ncmFrLndlYnAiLCJpYXQiOjE3NDE4NDU4ODAsImV4cCI6MTc3MzM4MTg4MH0.xTp9_MJQsgfca6gZtWbdwXHnAwdVSZzOPFnbiNW0TPg"
+    }
+  ],
+  "news": [
+    {
+      "url":"arzon-baliq",
+      "h1": {
+        "uz": "Har bir kilosi 85 000 dan bo'lgan baliqlar endilikda 75 000 dan sotilmoqda! Bu chegirma 14-martdan 1-aprelgacha amal qiladi.Bu ajoyib chegirma faqat vaqtinchalik, shuning uchun imkoniyatni qo‘ldan boy bermang! Baliqlarni endi yanada arzon narxda xarid qilish imkoniyati mavjud.",
+        "en": "Fish that cost 85,000 per kilogram are now sold for 75,000! This discount is valid from March 14 to April 1.This great discount is only available for a limited time, so don't miss out! Now you have the opportunity to buy fish at a lower price.",
+        "ru": "Рыба, стоимостью 85 000 за килограмм, теперь продается по 75 000! Скидка действует с 14 марта по 1 апреля. Эта отличная скидка действует только ограниченное время, не упустите шанс! Теперь у вас есть возможность купить рыбу по более низкой цене."
+      },
+      "h2": {
+        "uz": "Bularning barchasi siz uchun.",
+        "en": "All of this is for you.",
+        "ru": "Все это для вас."
+      },
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить сейчас"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzIuanBnIiwiaWF0IjoxNzQxODQxMDM5LCJleHAiOjE3NzMzNzcwMzl9.ELV-gCS9GTrB-xdmqHs29E5n8pfV3_mxmLOGf9TPrnM",
+      "p": {
+        "uz": "Bu imkoniyatni qo`ldan boy bermang !!!",
+        "en": "Don't miss this opportunity!!!",
+        "ru": "Не упустите эту возможность!!!"
+      },
+      "price": "75 000 UZS"
+    },
+    {
+      "url":"qozon-kabob",
+      "h1": {
+        "uz": "Qozon kabobi – ajoyib lazzati va yumshoq go‘shti bilan sizni hech qachon xafa qilmaydi. Maxsus qozonda tayyorlangan bu taom, har bir bo‘lagida noyob ta’mni taqdim etadi. Oilaviy bayramlar yoki mehmonlar uchun eng yaxshi tanlov! Hozircha kelib, qozon kabobimizni sinab ko‘ring va unutilmas ta’mni his eting!",
+        "en": "Its amazing flavor and tender meat, will never disappoint you. Cooked in a special kazan, this dish offers a unique taste in every bite. The perfect choice for family celebrations and gatherings with friends! Visit us now and experience the unforgettable taste of our kazan kebab!",
+        "ru": "Казан-кабоб с его потрясающим вкусом и мягким мясом не оставит вас равнодушными. Приготовленный в специальном казане, этот блюдо подарит вам неповторимый вкус в каждом кусочке. Идеальный выбор для семейных праздников и встреч с друзьями! Загляните к нам и попробуйте наш казан-кабоб, чтобы ощутить непередаваемый вкус!"
+      },
+      "h2": {
+        "uz": "Bu aynan siz uchun.",
+        "en": "This is only for you.",
+        "ru": "Все это для вас."
+      },
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить сейчас"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s9%20Shurva.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M5IFNodXJ2YS5qcGciLCJpYXQiOjE3NDE4NDU5OTUsImV4cCI6MTc3MzM4MTk5NX0.qpXadd3bhWlcXD-SdBPqTXfCEhd8ZDhw7sFYDfycIDc",
+      "p": {
+        "uz": "Bu imkoniyatni qo`ldan boy bermang !!!",
+        "en": "Don't miss this opportunity!!!",
+        "ru": "Не упустите эту возможность!!!"
+      },
+      "price":"22 000 UZS"
+    },
+    {
+      "url":"orama-borak",
+      "h1": {
+        "uz": "O‘rama bo‘rak endilikda 30% chegirma bilan sotilmoqda, har bir bo‘rakning narxi faqat 15 000 so‘m! Nozik xamir va mazali ichki qism bilan tayyorlangan o‘rama bo‘raklarimizni endi yanada arzon narxda xarid qilish imkoniyati mavjud. Bu chegirma faqat vaqtinchalik, shuning uchun imkoniyatni qo‘ldan boy bermang!",
+        "ru": "Орама-борек теперь продается с 30% скидкой, цена одного борека всего 15 000 сум!Орама-бореки, приготовленные из нежного теста с вкусной начинкой, теперь можно приобрести по более низкой цене. Скидка временная, поэтому не упустите возможность!",
+        "en": "O’rama borek is now available with a 30% discount, and the price of each borek is only 15,000 UZS! Now you have the opportunity to buy our delicious o’rama borek at an even more affordable price. This discount is temporary, so don’t miss out!"
+      },
+      "h2": {
+        "uz": "Bu faqat siz uchun.",
+        "en": "This is just for you.",
+        "ru": "Это только для вас."
+      },
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить сейчас"
+      },
+      "image": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s5%20O'rama%20%20bo'rak.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M1IE8ncmFtYSAgYm8ncmFrLndlYnAiLCJpYXQiOjE3NDE4NDU4ODAsImV4cCI6MTc3MzM4MTg4MH0.xTp9_MJQsgfca6gZtWbdwXHnAwdVSZzOPFnbiNW0TPg",
+      "p": {
+        "uz": "Bu imkoniyatni qo`ldan boy bermang !!!",
+        "en": "Don't miss this opportunity!!!",
+        "ru": "Не упустите эту возможность!!!"
+      },
+      "price":"18 000 UZS"
+    }
+  ],
+  "newfood": [
+    {
+      "img": "/public/images/yang7.webp",
+      "p": {
+        "uz": "Afsona Restorani ning menyusida yangi o`zbek milliy taomi qo`shildi. Bu mazali taomning tarkibida mol go`shti, kartoshka, piyoz hamda zarur ziravorlar mavjud bo`lib, ularni maxsus usulda tayyorlash orqali o`ziga xos ta`mi va aromati yaratilgan.",
+        "en": "A new Uzbek national dish has been added to the menu of Afsona Restaurant. This delicious dish consists of beef, potatoes, onions, and essential spices, which are prepared in a special way to create a unique taste and aroma.",
+        "ru": "В меню ресторана Афсона добавлено новое узбекское национальное блюдо. Это вкусное блюдо состоит из говядины, картофеля, лука и необходимых специй, которые готовятся особым способом, создавая уникальный вкус и аромат."
+      },
+      "btn": {
+        "uz": "Ko'rish",
+        "en": "See",
+        "ru": "Посмотреть"
+      },
+      "h1": {
+        "uz": "Tovuq Kabobi",
+        "en": "Chicken Kebab",
+        "ru": "Кебаб из курицы"
+      }
+    },
+    {
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s6%20lahmakun.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M2IGxhaG1ha3VuLndlYnAiLCJpYXQiOjE3NDE4NDU4OTMsImV4cCI6MTc3MzM4MTg5M30.NFJWkfCOwP1oIcFYLk07beZss3BBMJ_wb2n3Khb7i2E",
+      "p": {
+        "uz": "Lahmakun endilikda 30% chegirma bilan sotilmoqda, har bir lahmakunning narxi faqat 20 000 so‘m! Bu ajoyib chegirma 14-martdan 1-aprelgacha amal qiladi. Nozik xamir va mazali go‘shtli ichki qism bilan tayyorlangan lahmakunlarimizni endi yanada arzon narxda xarid qilish imkoniyati mavjud. ",
+        "en": " Lahmakun is now available with a 30% discount, and the price of each lahmakun is only 20,000 UZS! This amazing discount is valid from March 14th to April 1st. Now you have the opportunity to buy our delicious lahmakun at an even more affordable price.",
+        "ru": " Лахмакун теперь продается с 30% скидкой, цена одного лахмакуна всего 20 000 сум! Эта отличная скидка действует с 14 марта по 1 апреля. Лахмакуны, приготовленные из нежного теста с вкусной мясной начинкой, теперь можно приобрести по более низкой цене."
+      },
+      "btn": {
+        "uz": "Ko'rish",
+        "en": "See",
+        "ru": "Посмотреть"
+      },
+      "h1": {
+        "uz": "Turk Lahmakuni",
+        "en": "Turkish Lahmacun",
+        "ru": "Турецкий Лахмакун"
+      }
+    }
+  ],
+  "newchef": [
+    {
+      "name": "Sardor Sultonov",
+      "job": "Bosh oshpaz",
+      "desc": "About",
+      "btn": "Batafsil...",
+      "image": ""
+    },
+    {
+      "name": "Sardor Sultonov",
+      "job": "Bosh oshpaz",
+      "desc": "About",
+      "btn": "Batafsil...",
+      "image": ""
+    }
+  ],
+  "uzbek": [
+    {
+      "h1": {
+        "uz": "O'zbek Milliy Ta'omlari.",
+        "en": "Uzbek National Dishes.",
+        "ru": "Узбекские национальные блюда."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/animation-removebg-preview.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2FuaW1hdGlvbi1yZW1vdmViZy1wcmV2aWV3LnBuZyIsImlhdCI6MTc0MjI3MDExMiwiZXhwIjoxNzczODA2MTEyfQ.1RjbSK-3oDiX86tr4p_U4_UTXPMXVKzSpKj8Z8BsElc"
+    }
+  ],
+  "uzbektaomlar": [
+    {
+      "url": "qazili-osh",
+      "name": {
+        "uz": "Afsonaviy Qazili Osh",
+        "en": "Legendary Qazili Osh",
+        "ru": "Легендарный Казили Ош"
+      },
+      "desc": {
+        "uz": "Toza guruch, go‘sht va sabzavotlardan tayyorlangan, yurakni isituvchi taom.",
+        "en": "A heartwarming dish made from clean rice, meat, and vegetables.",
+        "ru": "Сердечное блюдо из чистого риса, мяса и овощей."
+      },
+      "bonus": {
+        "uz": "Salad bonusga",
+        "en": "Salad as a bonus",
+        "ru": "Салат в подарок"
+      },
+      "price": "45 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "Restoranda qazili oshni tayyorlashda sifatli masalliqlar va ehtiyotkorlik bilan pishiriladi. Go'sht qovurilib, sabzavotlar qo'shiladi. Guruch va ziravorlar qo'shilib, bulon yoki suv bilan past olovda pishiriladi.",
+        "en": "In a restaurant, high-quality ingredients are used with careful cooking. The meat is fried, vegetables are added. Rice and spices are mixed, then broth or water is added and cooked on low heat.",
+        "ru": "В ресторане используются качественные ингредиенты и тщательная готовка. Мясо обжаривается, добавляются овощи. Рис с приправами и бульоном готовится на медленном огне."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/1.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnLzEuanBnIiwiaWF0IjoxNzQyMjc0NzUyLCJleHAiOjE3NzM4MTA3NTJ9.mx5QzBDYgYAljJ3VX8etHAKMa6Fs70M_TL0VgiSedbI"
+    },
+    {
+      "url": "issiq-chuchvara",
+      "name": {
+        "uz": "Issiq Chuchvara",
+        "en": "Hot Dumplings",
+        "ru": "Горячие пельмени"
+      },
+      "desc": {
+        "uz": "Go'shtli va sabzavotli, sho'rvada pishirilgan chuchvara.",
+        "en": "Dumplings with meat and vegetables, cooked in soup.",
+        "ru": "Пельмени с мясом и овощами, вареные в супе."
+      },
+      "bonus": {
+        "uz": "Choy bonusga",
+        "en": "Tea as a bonus",
+        "ru": "Чай в подарок"
+      },
+      "price": "16 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "Issiq chuchvara – bu o'zbek milliy taomi bo'lib, undan xamir va go'sht, sabzavotlar ishlatiladi. Chuchvaralar qaynoq suyuqlikda pishiriladi va ustiga sarimsoq, yog' yoki sirka qo'shiladi.",
+        "en": "Hot chuchvara is a traditional Uzbek dish made with dough, meat, and vegetables. The dumplings are boiled in hot broth, and served with garlic, oil, or vinegar on top.",
+        "ru": "Горячая чучвара – это традиционное узбекское блюдо, приготовленное из теста, мяса и овощей. Пельмени варятся в горячем бульоне и подаются с чесноком, маслом или уксусом."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/chuchvara.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2NodWNodmFyYS5qcGciLCJpYXQiOjE3NDIyNzQ4NzUsImV4cCI6MTc3MzgxMDg3NX0.E_R4KZpLPYGdIg1yloPyIFfJ2DzplxxtN34KeSFh-jg"
+    },
+    {
+      "url": "gijduvon-kabob",
+      "name": {
+        "uz": "G'ijduvon Kabob",
+        "en": "G'ijduvon Kebab",
+        "ru": "Гидждуванский кебаб"
+      },
+      "desc": {
+        "uz": "An'anaviy usulda tayyorlangan, go'sht va ziravorlar bilan pishirilgan",
+        "en": "Traditional style kebab cooked with meat and spices, with a unique taste.",
+        "ru": "Традиционный кебаб, приготовленный с мясом и специями, с уникальным вкусом."
+      },
+      "bonus": {
+        "uz": "Choy bonusga",
+        "en": "Tea as a bonus",
+        "ru": "Чай в подарок"
+      },
+      "price": "25 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "G'ijduvon kabob o'zining o'ziga xos ta'mi va ziravorlar bilan pishirilgan go'sht bilan tanilgan. An'anaviy usulda qo'lda tayyorlanadi.",
+        "en": "G'ijduvon kebab is known for its unique flavor and meat cooked with spices. It is traditionally made by hand.",
+        "ru": "Гидждуванский кебаб известен своим уникальным вкусом и мясом, приготовленным с приправами. Он готовится вручную по традиционному рецепту."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/kabob.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2thYm9iLmpwZyIsImlhdCI6MTc0MjI3NDgyMSwiZXhwIjoxNzczODEwODIxfQ.RIFv8eY4NRLNNAY0_cdxhNBRcc1iTxgCk3d90GcH-Nk"
+    },
+    {
+      "url": "mazali-shurva",
+      "name": {
+        "uz": "Mazali Sho'rva",
+        "en": "Delicious Soup",
+        "ru": "Вкусный суп"
+      },
+      "desc": {
+        "uz": "Yurakni isituvchi sabzavotli sho'rva.",
+        "en": "A heartwarming vegetable soup.",
+        "ru": "Теплый овощной суп."
+      },
+      "bonus": {
+        "uz": "Choy bonusga",
+        "en": "Tea as a bonus",
+        "ru": "Чай в подарок"
+      },
+      "price": "12 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "Mazali sho'rva o'zbek oshxonasining eng sevimli va yurakni isitadigan taomlaridan biridir. Uni sabzavotlar bilan pishirishadi.",
+        "en": "Delicious soup is one of the favorite heartwarming dishes in Uzbek cuisine. It is made with vegetables.",
+        "ru": "Вкусный суп – одно из самых любимых и согревающих блюд узбекской кухни. Готовится из овощей."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/shurva.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3NodXJ2YS5qcGciLCJpYXQiOjE3NDIyNzQ3ODAsImV4cCI6MTc3MzgxMDc4MH0.Z07Ac30z5VLTpQtKMVt3A2yHSFtRp3eblgMkhPL_HwQ"
+    },
+    {
+      "url": "goshtli-manti",
+      "name": {
+        "uz": "Go'shtli Manti",
+        "en": "Meat Manty",
+        "ru": "Мясные манты"
+      },
+      "desc": {
+        "uz": "Go'sht va sabzavotlardan tayyorlangan, issiq manti.",
+        "en": "Hot manty made from meat and vegetables.",
+        "ru": "Горячие манты с мясом и овощами."
+      },
+      "bonus": {
+        "uz": "Choy va non bonusga",
+        "en": "Tea and bread as a bonus",
+        "ru": "Чай и хлеб в подарок"
+      },
+      "price": "15 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "Go'shtli manti o'zbek oshxonasining eng mashhur taomlaridan biridir. U issiq va mazali bo'lib, asosan go'sht va sabzavotlardan tayyorlanadi.",
+        "en": "Meat manty is one of the most popular dishes in Uzbek cuisine. It is hot and delicious, made primarily from meat and vegetables.",
+        "ru": "Мясные манты – одно из самых популярных блюд узбекской кухни. Они горячие и вкусные, приготовленные в основном из мяса и овощей."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/manti.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL21hbnRpLmpwZyIsImlhdCI6MTc0MjI3NDgwMiwiZXhwIjoxNzczODEwODAyfQ.EO9a9I__MUWuevGG86GaD7AmBYB-Dd03qlShr7bWJgY"
+    },
+    {
+      "url": "tovuqli-somsa",
+      "name": {
+        "uz": "Tavuqli Somsa",
+        "en": "Chicken Samosa",
+        "ru": "Самоса с курицей"
+      },
+      "desc": {
+        "uz": "Tovuq go'shti bilan to'ldirilgan somsa.",
+        "en": "Samosa stuffed with chicken meat.",
+        "ru": "Самоса, фаршированная куриным мясом."
+      },
+      "bonus": {
+        "uz": "Salad bonusga",
+        "en": "Salad as a bonus",
+        "ru": "Салат в подарок"
+      },
+      "price": "10 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "extra": {
+        "uz": "Tovuqli somsa – bu o'zbek milliy taomi bo'lib, tovuq go'shti va xamirdan tayyorlanadi. Uni odatda nonushta yoki gazak sifatida iste'mol qilishadi.",
+        "en": "Chicken samosa is a traditional Uzbek dish made from chicken meat and dough. It is typically eaten as a snack or breakfast.",
+        "ru": "Самоса с курицей – это традиционное узбекское блюдо, приготовленное из куриного мяса и теста. Обычно его едят как перекус или на завтрак."
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/somsa.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3NvbXNhLmpwZWciLCJpYXQiOjE3NDIyNzQ4NTIsImV4cCI6MTc3MzgxMDg1Mn0.2EVdvW3p0IToO1Cf19K4BiYgScAnX94bKNzLhMfOG-A"
+    }
+  ],
+  "turktaomlar": [
+    {
+      "name": {
+        "uz": "O'rama Bo'rak",
+        "en": "Rolled Börek",
+        "ru": "Рулетный Бёреk"
+      },
+      "desc": {
+        "uz": "Nozik xamir va mazali go'sht bilan tayyorlangan. Juda mazali ovqat.",
+        "en": "Prepared with delicate dough and delicious meat. A very tasty dish.",
+        "ru": "Приготовлено из тонкого теста и вкусного мяса. Очень вкусное блюдо."
+      },
+      "bonus": {
+        "uz": "Salad bonusga",
+        "en": "Salad as a bonus",
+        "ru": "Салат в подарок"
+      },
+      "price": "18 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s5%20O'rama%20%20bo'rak.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M1IE8ncmFtYSAgYm8ncmFrLndlYnAiLCJpYXQiOjE3NDE4NDU4ODAsImV4cCI6MTc3MzM4MTg4MH0.xTp9_MJQsgfca6gZtWbdwXHnAwdVSZzOPFnbiNW0TPg",
+      "url": "orama-borak",
+      "extra": {
+        "uz": "O'rama bo'rak, turk oshxonasining eng mashhur va qadimgi taomlaridan biri hisoblanadi. U juda nozik xamirga o'ralgan go'sht va ziravorlar bilan tayyorlanadi. Go'sht sifatida mol go'shti, qo'zichoq yoki tovuq ishlatilishi mumkin.",
+        "en": "Rolled Börek is one of the most popular and ancient dishes of Turkish cuisine. It is made by rolling delicate dough filled with meat and spices. The meat used can be beef, lamb, or chicken, and various vegetables can be added. ",
+        "ru": "Рулетный Бёреk является одним из самых популярных и древних блюд турецкой кухни. Оно готовится из тонкого теста, завернутого в мясо и специи. Для начинки могут использоваться говядина, баранина или курица, а также можно добавить."
+      }
+    },
+    {
+      "name": {
+        "uz": "Lahmacun",
+        "en": "Lahmacun",
+        "ru": "Лахмаджун"
+      },
+      "desc": {
+        "uz": "Yupqa xamir ustiga go'sht va ziravorlar qo'shilgan turkcha pizza.",
+        "en": "A Turkish pizza with thin dough, meat, and spices.",
+        "ru": "Турецкая пицца с тонким тестом, мясом и специями."
+      },
+      "bonus": {
+        "uz": "Yogurtli sous bonusga",
+        "en": "Yogurt sauce as a bonus",
+        "ru": "Йогуртовый соус в подарок"
+      },
+      "price": "22 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/s6%20lahmakun.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL3M2IGxhaG1ha3VuLndlYnAiLCJpYXQiOjE3NDE4NDU4OTMsImV4cCI6MTc3MzM4MTg5M30.NFJWkfCOwP1oIcFYLk07beZss3BBMJ_wb2n3Khb7i2E",
+      "url": "lahmakun",
+      "extra": {
+        "uz": "Lahmacun - bu juda nozik xamirga tayyorlangan turkcha pizza bo'lib, unga go'sht, ziravorlar va ba'zan sabzavotlar qo'shiladi. An'anaviy tarzda, lahmacun asosan o'tkir va mazali bo'lib, o'ziga xos achchiqligi bilan ajralib turadi. U ko'pincha limon sharbati bilan yoki yogurtli sous bilan iste'mol qilinadi.",
+        "en": "Lahmacun is a traditional Turkish pizza made with a thin dough topped with meat, spices, and sometimes vegetables. It is typically sharp and flavorful, often distinguished by its spiciness. Lahmacun is usually served with a squeeze of lemon juice or with yogurt sauce on the side.",
+        "ru": "Лахмаджун — это традиционная турецкая пицца с тонким тестом, на которое кладут мясо, специи и иногда овощи. Обычно она острое и насыщенное на вкус, и отличает её пряный вкус. Лахмаджун часто подается с лимонным соком или с йогуртовым соусом на стороне."
+      }
+    },
+    {
+      "name": {
+        "uz": "Adana Kebab",
+        "en": "Adana Kebab",
+        "ru": "Адана Кебаб"
+      },
+      "desc": {
+        "uz": "Qo'zichoq go'shtidan tayyorlangan, achchiq va mazali shashlik.",
+        "en": "Spicy and delicious lamb skewer.",
+        "ru": "Острый и вкусный шашлык из баранины."
+      },
+      "bonus": {
+        "uz": "Non va sous bonusga",
+        "en": "Bread and sauce as a bonus",
+        "ru": "Хлеб и соус в подарок"
+      },
+      "price": "35 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/adana.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2FkYW5hLmpwZyIsImlhdCI6MTc0MjI5MDk5MSwiZXhwIjoxNzczODI2OTkxfQ.FkYAiBu2Ira8GOdDsJ-WTRBEThlPLvVC0bHvohAwrGs",
+      "url": "adana-kebab",
+      "extra": {
+        "uz": "Adana kebab - bu turk oshxonasining juda mashhur, qo'zichoq go'shtidan tayyorlangan shashlik turi. Bu shashlik ayniqsa o'zining achchiqligi bilan mashhur, u an'anaviy turk ziravorlari bilan marinadlanadi. Adana kebabi ko'pincha yengil non va o'ziga xos sous bilan birga taqdim etiladi.",
+        "en": "Adana Kebab is a very popular Turkish dish, made from lamb meat and typically served as skewers. This kebab is famous for its spiciness, marinated with traditional Turkish spices. Adana kebab is often served with soft bread and a special sauce.",
+        "ru": "Адана кебаб — это очень популярное турецкое блюдо, приготовленное из баранины и подающееся на шампурах. Это кебаб знаменит своей остротой, его маринуют в традиционных турецких специях. Адана кебаб часто подают с мягким хлебом и особым соусом."
+      }
+    },
+    {
+      "name": {
+        "uz": "İskender Kebab",
+        "en": "İskender Kebab",
+        "ru": "Искендер Кебаб"
+      },
+      "desc": {
+        "uz": "Mazali go'sht bo'laklari, pomidor sousi va yogurt bilan xizmat qilinadi.",
+        "en": "Delicious meat slices served with tomato sauce and yogurt.",
+        "ru": "Вкусные кусочки мяса, подаются с томатным соусом и йогуртом."
+      },
+      "bonus": {
+        "uz": "Qo'shimcha yogurt bonusga",
+        "en": "Extra yogurt as a bonus",
+        "ru": "Дополнительный йогурт в подарок"
+      },
+      "price": "30 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/4.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzLzQuanBnIiwiaWF0IjoxNzQxODQxNjczLCJleHAiOjE3NzMzNzc2NzN9.x_3yhisEFhD3FjT5xbvRCvORQ1ZmoIdLlNs3M6nEpK8",
+      "url": "iskender-kebab",
+      "extra": {
+        "uz": "İskender kebab - bu turk oshxonasining eng mashhur taomlaridan biri. Ushbu taom go'sht bo'laklarini pomidor sousi va yogurt bilan birlashtirib taqdim etadi. U turk oshxonasida juda mashhur bo'lib, ko'pincha maxsus non bilan birga xizmat qilinadi.",
+        "en": "İskender Kebab is one of the most popular dishes in Turkish cuisine. The dish features slices of meat served with tomato sauce and yogurt. It's highly loved in Turkish cuisine and is often served with special bread.",
+        "ru": "Искендер кебаб — одно из самых популярных блюд турецкой кухни. Это блюдо состоит из кусочков мяса, подаваемых с томатным соусом и йогуртом. Оно очень популярно в турецкой кухне и часто подается с особым хлебом."
+      }
+    },
+    {
+      "name": {
+        "uz": "Pide",
+        "en": "Pide",
+        "ru": "Пиде"
+      },
+      "desc": {
+        "uz": "Go'sht, pishloq yoki sabzavotlar bilan to'ldirilgan turkcha non.",
+        "en": "A Turkish bread filled with meat, cheese, or vegetables.",
+        "ru": "Турецкий хлеб с начинкой из мяса, сыра или овощей."
+      },
+      "bonus": {
+        "uz": "Choy bonusga",
+        "en": "Tea as a bonus",
+        "ru": "Чай в подарок"
+      },
+      "price": "25 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/pide.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3BpZGUud2VicCIsImlhdCI6MTc0MjI5MTE0OCwiZXhwIjoxNzczODI3MTQ4fQ.gw-2YOPh_IuO9Z3CT360fw80yQsvGttQPMHHISsbGQc",
+      "url": "Pide",
+      "extra": {
+        "uz": "Pide - turk oshxonasining eng mashhur nonli taomlaridan biri bo'lib, go'sht, pishloq yoki sabzavotlar bilan to'ldiriladi. Bu taom yumshoq va mazali bo'lib, ko'pincha choy bilan yoki qahva bilan birga iste'mol qilinadi. Pide turk oshxonasining eng sevgan va ko'p iste'mol qilinadigan taomlaridan biridir.",
+        "en": "Pide is one of the most popular Turkish bread dishes, filled with meat, cheese, or vegetables. It's soft and delicious, often served with tea or coffee. Pide is one of the most beloved and frequently consumed dishes in Turkish cuisine.",
+        "ru": "Пиде — одно из самых популярных турецких хлебных блюд, которое начиняется мясом, сыром или овощами. Это мягкое и вкусное блюдо, которое часто подают с чаем или кофе. Пиде — одно из самых любимых и часто потребляемых блюд турецкой кухни."
+      }
+    },
+    {
+      "name": {
+        "uz": "Baklava",
+        "en": "Baklava",
+        "ru": "Баклава"
+      },
+      "desc": {
+        "uz": "Asal va yong'oq bilan tayyorlangan shirin turkcha pishiriq.",
+        "en": "A sweet Turkish pastry made with honey and nuts.",
+        "ru": "Сладкая турецкая выпечка с медом и орехами."
+      },
+      "bonus": {
+        "uz": "Choy yoki qahva bonusga",
+        "en": "Tea or coffee as a bonus",
+        "ru": "Чай или кофе в подарок"
+      },
+      "price": "28 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/baklava.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2Jha2xhdmEuanBlZyIsImlhdCI6MTc0MjI5MTE3MywiZXhwIjoxNzczODI3MTczfQ.0qyOHRxF5xESWZVH7c43iovckyeqceayeFwFPblQY60",
+      "url": "baklava",
+      "extra": {
+        "uz": "Baklava - bu asal va yong'oq bilan tayyorlangan shirin turkcha pishiriq bo'lib, juda ko'p qatlamlarga ega. U juda mazali va yengil bo'lib, ko'pincha choy yoki qahva bilan iste'mol qilinadi. Baklava ko'plab turkiy restoranlarda mashhur desertlardan biridir.",
+        "en": "Baklava is a sweet Turkish pastry made with honey and nuts, layered to perfection. It is delicious and light, often enjoyed with tea or coffee. Baklava is one of the most popular desserts in many Turkish restaurants.",
+        "ru": "Баклава — это сладкая турецкая выпечка с медом и орехами, слоистая и вкусная. Она легкая и очень вкусная, часто подается с чаем или кофе. Баклава — один из самых популярных десертов в турецких ресторанах."
+      }
+    }
+  ],
+ "yapontaomlar": [
+  {
+    "name": {
+      "uz": "Sushi",
+      "en": "Sushi",
+      "ru": "Суши"
+    },
+    "desc": {
+      "uz": "Yangi tayyorlangan baliq, guruch va dengiz mahsulotlaridan tayyorlangan. Halol baliq bilan tayyorlanadi.",
+      "en": "Made with freshly prepared fish, rice, and seafood. Prepared with halal fish.",
+      "ru": "Приготовлено из свежей рыбы, риса и морепродуктов. Приготовлено с халяльной рыбой."
+    },
+    "bonus": {
+      "uz": "Choy bonusga",
+      "en": "Tea as a bonus",
+      "ru": "Чай в подарок"
+    },
+    "extra": {
+      "uz": "Bu taom maxsus yapon retsepti asosida tayyorlanadi va yangi baliq bilan bezatilgan.",
+      "en": "This dish is prepared based on a special Japanese recipe and garnished with fresh fish.",
+      "ru": "Это блюдо готовится по специальному японскому рецепту и украшено свежей рыбой."
+    },
+    "price": "25 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/sushi.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3N1c2hpLmpwZWciLCJpYXQiOjE3NDIyOTU0MTksImV4cCI6MTc3MzgzMTQxOX0.d6BtxG3vXh23T-xbYhBvWef0zlgiFmVsLY3OYC_Posg",
+    "url": "sushi"
+  },
+  {
+    "name": {
+      "uz": "Ramen",
+      "en": "Ramen",
+      "ru": "Рамен"
+    },
+    "desc": {
+      "uz": "Xamirli sho'rva, go'sht va sabzavotlar bilan tayyorlangan. Halol go'sht bilan.",
+      "en": "A noodle soup with meat and vegetables. Made with halal meat.",
+      "ru": "Лапша с мясом и овощами. Приготовлено с халяльным мясом."
+    },
+    "bonus": {
+      "uz": "Baliq filetosidan bonus",
+      "en": "Fish fillet as a bonus",
+      "ru": "Филе рыбы в подарок"
+    },
+    "extra": {
+      "uz": "Sho'rva yangi sabzavotlar va to'yimli go'sht bilan tayyorlanadi, bu taomni yanada mazali qiladi.",
+      "en": "The soup is prepared with fresh vegetables and hearty meat, making this dish even more delicious.",
+      "ru": "Суп готовится с свежими овощами и сытным мясом, что делает это блюдо еще более вкусным."
+    },
+    "price": "22 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/ramen.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3JhbWVuLndlYnAiLCJpYXQiOjE3NDIyOTU0NDYsImV4cCI6MTc3MzgzMTQ0Nn0.kVoBTGVZ-YcmKEooqg5aN9d5uS7R9Df_EMD9JjgREg8",
+    "url": "ramen"
+  },
+  {
+    "name": {
+      "uz": "Tempura",
+      "en": "Tempura",
+      "ru": "Тэмпура"
+    },
+    "desc": {
+      "uz": "Baliq va sabzavotlar xamirga botirilgan va qovurilgan. Halol usulda tayyorlanadi.",
+      "en": "Fish and vegetables dipped in batter and fried. Prepared in a halal way.",
+      "ru": "Рыба и овощи, обжаренные в тесте. Приготовлено по халяльному методу."
+    },
+    "bonus": {
+      "uz": "So'rovga ko'ra sous bonus",
+      "en": "Sauce upon request as a bonus",
+      "ru": "Соус по запросу в подарок"
+    },
+    "extra": {
+      "uz": "Bu taom baliq va sabzavotlarni maxsus xamirda pishirib, ajoyib xushbo'ylik bilan taqdim etadi.",
+      "en": "This dish serves fish and vegetables coated in special batter, providing an exquisite fragrance.",
+      "ru": "Это блюдо подается с рыбой и овощами, покрытыми специальным тестом, обеспечивая восхитительный аромат."
+    },
+    "price": "20 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/tempura.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3RlbXB1cmEuanBnIiwiaWF0IjoxNzQyMjk1NDY2LCJleHAiOjE3NzM4MzE0NjZ9.TiLwhhHxGgTqpfFhLeXqXCKy-IRjOsWguAV5JW-uts0",
+    "url": "tempura"
+  },
+  {
+    "name": {
+      "uz": "Unagi Donburi",
+      "en": "Unagi Donburi",
+      "ru": "Унаги Донбури"
+    },
+    "desc": {
+      "uz": "Yaponiya uslubida tayyorlangan halol baliq bilan guruch taomi.",
+      "en": "Rice dish with halal fish prepared in Japanese style.",
+      "ru": "Блюдо из риса с халяльной рыбой, приготовленной в японском стиле."
+    },
+    "bonus": {
+      "uz": "Yapon choyi bonusga",
+      "en": "Japanese tea as a bonus",
+      "ru": "Японский чай в подарок"
+    },
+    "extra": {
+      "uz": "Bu taom guruch va halol baliqni birlashtirib, yapon uslubida ajoyib birlashtiradi.",
+      "en": "This dish combines rice and halal fish, offering a perfect blend in Japanese style.",
+      "ru": "Это блюдо сочетает рис и халяльную рыбу, предлагая идеальное сочетание в японском стиле."
+    },
+    "price": "30 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/donburi.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL2RvbmJ1cmkuanBnIiwiaWF0IjoxNzQyMjk1NDg5LCJleHAiOjE3NzM4MzE0ODl9.mTvAlLMkYdPsaqmdYvv8vUKfM1NQ2U3LFKz1sQTl5uw",
+    "url": "unagi-donburi"
+  },
+  {
+    "name": {
+      "uz": "Maki Sushi",
+      "en": "Maki Sushi",
+      "ru": "Маки Суши"
+    },
+    "desc": {
+      "uz": "Halol baliq va sabzavotlar bilan o'ralgan guruch. Yapon uslubida tayyorlanadi.",
+      "en": "Rice wrapped with halal fish and vegetables. Prepared in Japanese style.",
+      "ru": "Рис, завернутый с халяльной рыбой и овощами. Приготовлено в японском стиле."
+    },
+    "bonus": {
+      "uz": "Sos bonusga",
+      "en": "Sauce as a bonus",
+      "ru": "Соус в подарок"
+    },
+    "extra": {
+      "uz": "Bu taom guruchni halol baliq va sabzavotlar bilan o'ralgan holda taqdim etadi.",
+      "en": "This dish presents rice wrapped with halal fish and vegetables.",
+      "ru": "Это блюдо подается с рисом, завернутым с халяльной рыбой и овощами."
+    },
+    "price": "18 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Maki%20Sushi.avif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL01ha2kgU3VzaGkuYXZpZiIsImlhdCI6MTc0MjI5NTUxMCwiZXhwIjoxNzczODMxNTEwfQ.IJfStBiKsIN5so3M1ZNYQRiCCQ-o8Ed8CLwUBAhKJnU",
+    "url": "maki-sushi"
+  },
+  {
+    "name": {
+      "uz": "Sashimi",
+      "en": "Sashimi",
+      "ru": "Сашими"
+    },
+    "desc": {
+      "uz": "Sof baliq, sabzavotlar va maxsus sous bilan taqdim etilgan. Halol baliq bilan tayyorlanadi.",
+      "en": "Fresh fish, vegetables, and special sauce served. Made with halal fish.",
+      "ru": "Свежая рыба, овощи и специальный соус. Приготовлено с халяльной рыбой."
+    },
+    "bonus": {
+      "uz": "Ginger bonusga",
+      "en": "Ginger as a bonus",
+      "ru": "Имбирь в подарок"
+    },
+    "extra": {
+      "uz": "Bu taom, yangi baliq va sabzavotlarni maxsus sous bilan taqdim etadi, shuning uchun har bir luqma juda mazali.",
+      "en": "This dish serves fresh fish and vegetables with special sauce, making each bite incredibly delicious.",
+      "ru": "Это блюдо подается с свежей рыбой и овощами с специальным соусом, что делает каждый укус невероятно вкусным."
+    },
+    "price": "35 000 UZS",
+    "btn": {
+      "uz": "Xarid Qilish",
+      "en": "Buy Now",
+      "ru": "Купить"
+    },
+    "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Ebi%20Tempura.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL0ViaSBUZW1wdXJhLmpwZyIsImlhdCI6MTc0MjMwMzg0NiwiZXhwIjoxNzczODM5ODQ2fQ.SUh5zDQOC3C6my69on8BBejvK5aVqGRjRlegp8m4NVg",    "url": "sashimi"
+  }
+],
+  "dengiztaomlari": [
+    {
+      "name": {
+        "uz": "Nigiri",
+        "en": "Nigiri",
+        "ru": "Нигири"
+      },
+      "desc": {
+        "uz": "Yangi baliq yoki dengiz mahsulotlari guruch ustiga joylashtirilgan sushi turi. Halol baliq ishlatiladi.",
+        "en": "A type of sushi with fresh fish or seafood placed on top of rice. Made with halal fish.",
+        "ru": "Вид суши с свежей рыбой или морепродуктами на рисе. Приготовлено с халяльной рыбой."
+      },
+      "extra": {
+      "uz": "Bu taom maxsus yapon retsepti asosida tayyorlanadi va yangi baliq bilan bezatilgan.",
+      "en": "This dish is prepared based on a special Japanese recipe and garnished with fresh fish.",
+      "ru": "Это блюдо готовится по специальному японскому рецепту и украшено свежей рыбой."
+    },
+      "bonus": {
+        "uz": "Soya sousi bonusga",
+        "en": "Soy sauce as a bonus",
+        "ru": "Соевый соус в подарок"
+      },
+      "price": "40 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "url":"nigiri",
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/ramen.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL3JhbWVuLndlYnAiLCJpYXQiOjE3NDIzMDM5NjIsImV4cCI6MTc3MzgzOTk2Mn0.Mjxi73I56HmpsUAKN5lzf2oVlRpibeo65oj0B1buxqI"
+    },
+    {
+      "url":"ebi-tempura",
+      "name": {
+        "uz": "Ebi Tempura",
+        "en": "Ebi Tempura",
+        "ru": "Эби Темпура"
+      },
+      "desc": {
+        "uz": "Qovurilgan halol qisqichbaqalar, yumshoq va tiniq ta'mga ega.",
+        "en": "Fried halal shrimp, crispy and tender taste.",
+        "ru": "Жареные халяльные креветки, хрустящие и нежные на вкус."
+      },
+      "extra": {
+      "uz": "Sho'rva yangi sabzavotlar va to'yimli go'sht bilan tayyorlanadi, bu taomni yanada mazali qiladi.",
+      "en": "The soup is prepared with fresh vegetables and hearty meat, making this dish even more delicious.",
+      "ru": "Суп готовится с свежими овощами и сытным мясом, что делает это блюдо еще более вкусным."
+    },
+      "bonus": {
+        "uz": "Salat bonusga",
+        "en": "Salad as a bonus",
+        "ru": "Салат в подарок"
+      },
+      "price": "50 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Ebi%20Tempura.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL0ViaSBUZW1wdXJhLmpwZyIsImlhdCI6MTc0MjMwMzg0NiwiZXhwIjoxNzczODM5ODQ2fQ.SUh5zDQOC3C6my69on8BBejvK5aVqGRjRlegp8m4NVg"
+    },
+    {
+      "url":"grill-losos",
+      "name": {
+        "uz": "Gril Losos",
+        "en": "Grilled Salmon",
+        "ru": "Гриль Лосось"
+      },
+      "desc": {
+        "uz": "Halol losos baliqlari maxsus gril usulida tayyorlanadi.",
+        "en": "Halal salmon fish grilled to perfection.",
+        "ru": "Халяльный лосось, приготовленный на гриле до совершенства."
+      },
+      "extra": {
+        "uz": "Bu taom baliq va sabzavotlarni maxsus xamirda pishirib, ajoyib xushbo'ylik bilan taqdim etadi.",
+        "en": "This dish serves fish and vegetables coated in special batter, providing an exquisite fragrance.",
+        "ru": "Это блюдо подается с рыбой и овощами, покрытыми специальным тестом, обеспечивая восхитительный аромат."
+      },
+      "bonus": {
+        "uz": "Limon bo'lagi bonusga",
+        "en": "Lemon slice as a bonus",
+        "ru": "Ломтик лимона в подарок"
+      },
+      "price": "65 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Gril%20Losos.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL0dyaWwgTG9zb3MuanBnIiwiaWF0IjoxNzQyMzAzODc3LCJleHAiOjE3NzM4Mzk4Nzd9.xxS7mZ5WJADUaXHsKTnxyl9QvFhyDEkng0OUbJJxOK0"
+    },
+    {
+      "url":"tuna-tataki",
+      "name": {
+        "uz": "Tuna Tataki",
+        "en": "Tuna Tataki",
+        "ru": "Тунец Татаки"
+      },
+      "desc": {
+        "uz": "Yumshoq halol tuna baliqlari yengil qovurilgan va maxsus sous bilan xizmat qilinadi.",
+        "en": "Tender halal tuna fish lightly seared and served with special sauce.",
+        "ru": "Нежный халяльный тунец слегка обжарен и подается с специальным соусом."
+      },
+      "bonus": {
+        "uz": "Miso sho'rva bonusga",
+        "en": "Miso soup as a bonus",
+        "ru": "Мисо-суп в подарок"
+      },
+      "extra": {
+      "uz": "Bu taom guruch va halol baliqni birlashtirib, yapon uslubida ajoyib birlashtiradi.",
+      "en": "This dish combines rice and halal fish, offering a perfect blend in Japanese style.",
+      "ru": "Это блюдо сочетает рис и халяльную рыбу, предлагая идеальное сочетание в японском стиле."
+    },
+      "price": "55 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Tuna%20Tataki.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL1R1bmEgVGF0YWtpLmpwZyIsImlhdCI6MTc0MjMwMzkxMSwiZXhwIjoxNzczODM5OTExfQ.VGD7cOCA8CRotXYNCmr26WLdouSRiH9W59wnsKqIXQA"
+    },
+    {
+      "name": {
+        "uz": "Kalamari Qovurilgan",
+        "en": "Fried Calamari",
+        "ru": "Жареный Кальмар"
+      },
+      "extra": {
+      "uz": "Bu taom guruch va halol baliqni birlashtirib, yapon uslubida ajoyib birlashtiradi.",
+      "en": "This dish combines rice and halal fish, offering a perfect blend in Japanese style.",
+      "ru": "Это блюдо сочетает рис и халяльную рыбу, предлагая идеальное сочетание в японском стиле."
+    },
+      "desc": {
+        "uz": "Qovurilgan halol kalamari, tiniq va lazzatli.",
+        "en": "Fried halal calamari, crispy and flavorful.",
+        "ru": "Жареный халяльный кальмар, хрустящий и ароматный."
+      },
+      "bonus": {
+        "uz": "Qizil sous bonusga",
+        "en": "Red sauce as a bonus",
+        "ru": "Красный соус в подарок"
+      },
+      "price": "48 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "url":"kalamar-qovurilgan",
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Kalamari%20Qovurilgan.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL0thbGFtYXJpIFFvdnVyaWxnYW4ud2VicCIsImlhdCI6MTc0MjMwMzk4OSwiZXhwIjoxNzczODM5OTg5fQ.X4YBYnNpxP-PzqKHV-3EG5CCHLYC3QNr7X1UkSXi_jI"
+    },
+    {
+      "name": {
+        "uz": "Mussels Sho'rva",
+        "en": "Mussels Soup",
+        "ru": "Суп с Мидиями"
+      },
+      "desc": {
+        "uz": "Halol midiya sho'rvasi, to'yimli va foydali.",
+        "en": "Halal mussels soup, nutritious and rich in flavor.",
+        "ru": "Халяльный суп с мидиями, питательный и ароматный."
+      },
+      "url":"mussels-shorva",
+      "bonus": {
+        "uz": "Non bonusga",
+        "en": "Bread as a bonus",
+        "ru": "Хлеб в подарок"
+      },
+      "extra": {
+        "uz": "Bu taom maxsus yapon retsepti asosida tayyorlanadi va yangi baliq bilan bezatilgan.",
+        "en": "This dish is prepared based on a special Japanese recipe and garnished with fresh fish.",
+        "ru": "Это блюдо готовится по специальному японскому рецепту и украшено свежей рыбой."
+      },
+      "price": "42 000 UZS",
+      "btn": {
+        "uz": "Xarid Qilish",
+        "en": "Buy Now",
+        "ru": "Купить"
+      },
+      "img": "https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imag/Mussels%20Sho'rva.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnL011c3NlbHMgU2hvJ3J2YS53ZWJwIiwiaWF0IjoxNzQyMzA0MDcxLCJleHAiOjE3NzM4NDAwNzF9.R9hFBUzZMRaAjEEq7IySR2H3r_uCTQ8TRXL38etix3M"
+    }
+  ]
+}

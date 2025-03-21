@@ -1,0 +1,75 @@
+{
+  "navbar": {
+    "nav": "Menu",
+    "nav2": "Biz Haqimizda",
+    "nav3": "Yangiliklar",
+    "nav4": "Saralanganlar",
+    "nav5": "Kirish",
+    "nav6":"Vakansiya"
+  },
+  "homeh1": {
+    "nom": "Ushbu taomlarning barchasi 30% chegirmada !!!"
+  },
+  "footers": {
+    "h1": "Biz Haqimizda",
+    "h4": "Afsona Restorani Zamonaviy va an`anaviy taomlarning mukammal uyg`unligi bilan ajralib turadi. Afsona Restoranida mehmonlar nafis taomlardan tanvvul qilishadi !!!",
+    "h21": "Menu",
+    "li": " O`zbek Milliy Ta`omlari",
+    "li1": "Turk Ta`omlari",
+    "li2": "Yapon Ta`omlari",
+    "li3": "Dengiz Mahsulotlari"
+  },
+  "about": {
+    "top": "Afsona Restorani",
+    "bottom": " Zamonaviy va an`anaviy taomlarning mukammal uyg`unligi bilan ajralib turadi. Afsona Restoranida mehmonlar nafis taomlar, o`ziga xos atmosfera va unutilmas tajribalar kutib olishadi. Har bir taomning o`ziga xosligi, yangilangan retseptlar va ingredientlardan foydalanish orqali taqdim etiladi.",
+    "h1": "Restoran Haqida",
+    "p1": " Afsona Restorani 2024-yil 1-iyulda tashkil etilgan. Restoran asoschisi va bosh direktori Asilbek Ochilov ning   so`zlariga ko`ra, restoranning asosiy maqsadi O`zbekistondagi     milliy taomlarni zamonaviy va sifatli usulda taqdim etish,             shuningdek, mijozlarga unutilmas tajriba taqdim etishdir. AfsonaRestorani ning falsafasi o`zbek milliy oshxonasini dunyo bo`ylab       tanitish, yuqori sifatli xizmat ko`satish va mijozlarning har bir      talabini qondirishga qaratilgan.",
+    "p2": " Restoranning avvalgi jamoasi 15 kishidan iborat bo`lib, bugungi kunda esa bu jamoada 50 dan ortiq malakali oshpazlar va xizmat ko`rsatuvchilar faoliyat olib bormoqda. Har bir a`zo restoranning maqsadlariga ishonib, o`z kasbiy ko`nikmalarini rivojlantirib, mijozlarga eng yaxshi xizmatni taqdim etishga intiladi. Bu odaml restoranning rivojlanishiga katta hissa qo`shmoqda va o`z ishiga sodiq qolmoqda.",
+    "h2": " Restoran taomlari haqida qisqacha ma`lumot!",
+    "p3": " Bizning restoranimizda hozirda turli xil mazali taomlar tayyorlanmoqda. Har bir taom o‘ziga xos ta’mi, lazzati va sifatli mahsulotlari bilan ajralib turadi. Milliy va xalqaro  oshxona lazzatlaridan bahramand bo‘lishingiz mumkin. Har kuni yangilanib turadigan menyumuzda sho‘rvalar, asosiy taomlar,  salatlar va shirinliklarning eng mazali turlari mavjud.",
+    "h3": " Bizning Asosiy Vazifamiz",
+    "p4": "Bizning asosiy maqsadimiz – mijozlarimizga yuqori sifatli, mazali va sog‘lom taomlar taqdim etishdir. Har bir taomni tayyorlash jarayonida biz faqat tabiiy, yangi va ekologik toza mahsulotlardan foydalanamiz. Oshpazlarimiz tajribasi va mahorati  har bir taomga o‘ziga xos lazzat va estetik joziba bag‘ishlaydi.  Sifatli taom – bu bizning ustuvor yo‘nalishimiz. Shu sababli, biz har bir taomni aniq standartlar va talablar asosida  tayyorlaymiz.",
+    "p5": " Bundan tashqari, biz nafaqat taom tayyorlaymiz,mehmonlarimizga yodda qoladigan taassurotlar, yoqimli muhit va balki tashrif buyurgan har bir mijoz o‘zbek va xalqaro oshxonaning eng yaxshi tamlarini his qilishi va yuqori darajadagi xizmatdan bahramand bo‘lishi uchun doimiy ravishda rivojlanib boramiz.",
+    "p6": " Har bir mehmonimiz bizning restoranda o‘zini qulay, hurmatga   sazovor va maxsus mehmon sifatida his qilishi biz uchun juda     muhim. Biz uchun sifat, an’ana va innovatsiya uyg‘unligi asosiy      tamoyil hisoblanadi. Restoranimizda har bir mehmon o‘ziga xos   taomlar, unutilmas lazzatlar va a’lo darajadagi xizmat bilan kutib olinadi. Sizning ishonchingiz – bizning eng katta ilhom   manbamiz!"
+  },
+  "news": {
+    "h1": "Afsona Yangiliklari",
+    "p": " Restoranimizda har hafta sizni yangi taomlar, maxsus chegirmalar va ajoyib aksiyalar kutmoqda! Mazali yangiliklardan bahramand bo‘lish uchun biz bilan qoling! Bizning yangiliklarimizdan bexabar qolmang! Eng so‘nggi takliflar va maxsus tadbirlardan xabardor bo‘lish uchun bizni kuzatib boring!",
+    "h2": "  Ramazon oyi munosabati bilan Afsona Restorani katta chegirmaga start berdi. Ya'ni har bir taomni 30% chegirma bilan xarid qilishingiz mumkin. Bu imkoniyatdan foydalangan holda, sevimli taomlaringizni yanada arzon narxda xarid qiling !!!",
+    "p1": " Bu imkoniyatni qo'ldan boy bermang !!!",
+    "btn": "Xarid Qilish",
+    "h3": "Yangi Onlayn Buyurtma Tizimi va Aqlli To`lovlar Yaratilishi",
+    "p2": " Restoranimizda yangi aqlli texnologiyalarni yaratish jarayoni boshlanmoqda. Maqsadimiz – mijozlarimizga yanada qulay va samarali xizmat ko`rsatish. Yangi tizimlar, ularning ehtiyojlarini yaxshiroq qondirish va restoranimizda vaqtni tejash uchun mo`ljallangan. Birinchi bosqichda, yangi onlayn buyurtma tizimi yaratiladi. Ushbu tizim orqali mijozlarimiz uylaridan yoki ofislaridan turib, internet orqali istagan taomlarini tanlab, tez va qulay buyurtma bera olishadi.",
+    "p3": "Onlayn tizim, foydalanuvchilarga intuitiv interfeys va oson navigatsiya taqdim etadi, bu esa buyurtmalarni tezda amalga oshirish imkoniyatini yaratadi. Shuningdek, aqlli to`lov tizimi  yaratish ustida ishlamoqdamiz. Bu tizim orqali mijozlarimiz  nafaqat naqd pul, balki mobil telefon yoki bank kartalari orqali  xavfsiz va tez to`lovlarni amalga oshirishi mumkin bo`ladi. Bu  yangiliklar, restoranimizda to`lov jarayonlarini soddalashtirib, mijozlar uchun maksimal qulaylik yaratadi.",
+    "p4": "Onlayn buyurtma tizimi yaratilishi orqali mijozlarimiz istalgan vaqtda, istalgan joydan turib, taomlarini onlayn tarzda buyurtma  qilish imkoniyatiga ega bo`ladi. Tizim intuitiv interfeysga ega  bo`lib, har bir mijozning ehtiyojini qondirishga yordam beradi.  Endi, restoranga kelmasdan, o`z sevimli taomlaringizni uyga  buyurtma qilish juda oson va qulay bo`ladi.",
+    "h4":"Afsona Menusiga Yangi Ta'omlar Qo'shildi.",
+    "h5":"Ramazon Oyida Katta Chegirmalar.",
+    "h6":"Restoranimizga yangi oshpazlar ishga qabul qilindi.",
+    "h7":"Xaridingiz muvaffaqiyatli amalga oshirildi!",
+    "p5":"Afsona Restorani yangiliklar bo‘limida ajoyib yangiliklar! Bizning menyumizni doimiy yangilab turamiz va endi siz uchun yangi o‘zbek milliy taomlari, shuningdek, turk oshxonasining mazali taomlari ham qo‘shildi. Yangi lahmakun, tovuq kabobi, va boshqa bir qator taomlar sizni kutmoqda. Bundan tashqari, 14-martdan 1-aprelgacha barcha taomlarimizda 30% chegirma mavjud! Maxsus chegirmalar va aksiya takliflarini qo‘ldan boy bermang. Restoranimizda sizni qulay va samimiy muhitda kutib olishdan xursandmiz. Yangiliklarimizni kuzatib boring va har haftalik yangi takliflarimizdan xabardor bo‘ling!"
+  },
+  "home":{
+    "h1":"Afsona Restorani Haqida Video Malumot!",
+    "h2":"Iltimos, barcha maydonlarni to'ldiring!",
+    "h3":"Sizda Xatolik yuz berdi,",
+    "h4":"Savollar uchun?",
+    "h5":"Ismingizni kiriting",
+    "h6":"Raqamingizni kiriting (884347808)",
+    "h7":"Savollaringizni yozing",
+    "h8":"Yuborish",
+    "h9":"Ismingiz",
+    "h10":"Telefon Raqam",
+    "h11":"Savollar",
+    "h12":"Restoranimiz haqida o`z fikringizni kiriting!",
+    "h13":"Sharh yozish uchun...",
+    "h14":"Yozilgan sharhlar:"
+  },
+  "menu":{
+    "h1":"Afsona Menyusi",
+    "p":"Mazali va o‘ziga xos taomlar bilan sizga xizmat ko‘rsatamiz! Bizning menyuda yangi va sifatli mahsulotlardan tayyorlangan milliy hamda xalqaro taomlar mavjud. Har bir taom mehmonlarimizga unutilmas lazzat ulashish uchun maxsus retsept asosida tayyorlanadi. Ta’m va sifatni his eting – biz bilan birga totli lahzalardan bahramand bo‘ling!",
+    "h2":"Turk Milliy Ta'omlari",
+    "h3":"Yapon Halol Ta'omlari",
+    "h4":"Halol Dengiz Mahsulotlari",
+    "btn":"Ortga qaytish"
+  }
+}

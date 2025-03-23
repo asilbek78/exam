@@ -6,10 +6,9 @@
 }
 
 .bgi {
-  background-image: url("https://liwsxrmbekpnxfafaxlm.supabase.co/storage/v1/object/sign/images/Images/main-osh.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvSW1hZ2VzL21haW4tb3NoLndlYnAiLCJpYXQiOjE3NDE4NTQ4NjQsImV4cCI6MTc3MzM5MDg2NH0.MS2ABgGtSX_ciU5wjp7jscYHxnyWSDo_4dSHDvRCkxY");
+  background-image: url("https://omvwbniuooqqvunluhkz.supabase.co/storage/v1/object/sign/imgs/osh-mainbg.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWdzL29zaC1tYWluYmcud2VicCIsImlhdCI6MTc0MjYzNzMzNiwiZXhwIjoxNzc0MTczMzM2fQ.izo6tglB0mIsTsKFd4O-9txi2I5VKxdyMAb9hzQB9jo");
   width: auto;
   height: auto;
   background-size: cover;
   /* background-position: no; */
 }
-

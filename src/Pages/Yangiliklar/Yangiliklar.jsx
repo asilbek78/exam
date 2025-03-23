@@ -6,7 +6,7 @@ import { EffectCoverflow, Autoplay } from "swiper/modules";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { UseFetch } from "../../Hook/UseFetch";
-
+// import Firstnew from "./firstnew"
 function Yangiliklar() {
   const { t, i18n } = useTranslation();
   const { data: five, isLoading } = UseFetch("/public/db.json");
@@ -18,14 +18,14 @@ function Yangiliklar() {
         <div className="container ">
           <div className=" w-[94%] h-auto m-auto">
             <span className="flex flex-col items-center gap-6 m-auto mb-10 text-center">
-              <h1 className="text-6xl font-medium text-orange-500 dark:text-white">
+              <h1 className="text-6xl font-bold text-orange-500 dark:text-yellow-400 mb-2">
                 {t("news.h1")}
               </h1>
               {/* <p className="max-w-[800px] text-md font-serif text-orange-400 dark:text-gray-300">
                 {t("news.p")}
               </p> */}
             </span>
-            <h1 className="ml-4 text-3xl font-semibold text-gray-600 mb-7 dark:text-gray-300">
+            <h1 className="ml-4 text-3xl font-semibold text-gray-600 mb-7 dark:text-yellow-400">
               {t("news.h5")}
             </h1>
             <div className="flex items-center gap-5 p-4 mb-10 duration-300 bg-gray-100 border dark:bg-gray-800 rounded-xl hover:shadow-xl">
@@ -65,7 +65,7 @@ function Yangiliklar() {
                 <h1 className="font-serif text-xl text-gray-800 dark:text-gray-300">
                   {t("news.h2")}
                 </h1>
-                <p className=" text-[23px] text-gray-900  font-medium dark:text-gray-200">
+                <p className=" text-[23px] text-gray-900  font-medium dark:text-yellow-400">
                   {t("news.p1")}
                 </p>
                 <Link to={"/menu"}>
@@ -90,7 +90,7 @@ function Yangiliklar() {
                   <h1 className="font-serif text-lg text-gray-800 dark:text-gray-300">
                     {item?.h1[i18n.language]}
                   </h1>
-                  <p className="text-2xl font-medium text-gray-900 dark:text-gray-300 ">
+                  <p className="text-2xl font-medium text-gray-900 dark:text-yellow-400 ">
                     {item.h2[i18n.language]}
                   </p>
                   <Link to={`/yangi/${item.url}`}>
@@ -103,7 +103,7 @@ function Yangiliklar() {
               </div>
             ))}
             <article className="w-[85%] flex flex-col gap-3 mb-8">
-              <h1 className="text-2xl font-semibold text-gray-600 dark:text-gray-200">
+              <h1 className="text-2xl font-semibold text-gray-600 dark:text-yellow-400">
                 {t("news.h3")}
               </h1>
               <p className="font-serif text-gray-800 dark:text-gray-300 text-md">
@@ -116,7 +116,7 @@ function Yangiliklar() {
                 {t("news.p4")}
               </p> */}
             </article>
-            <h1 className="mb-5 text-2xl font-semibold text-gray-600 dark:text-gray-200">
+            <h1 className="mb-5 text-2xl font-semibold text-gray-600 dark:text-yellow-400">
               {t("news.h4")}
             </h1>
             {five?.newfood.map((item, id) => (
@@ -128,7 +128,7 @@ function Yangiliklar() {
                     alt=""
                   />
                   <span className="flex flex-col gap-1 mr-4">
-                    <h1 className="text-xl font-medium dark:text-white">
+                    <h1 className="text-xl font-medium dark:text-yellow-400">
                       {item.h1[i18n.language]}
                     </h1>
                     <p className="text-lg text-gray-800 dark:text-gray-300">
@@ -145,13 +145,14 @@ function Yangiliklar() {
               </div>
             ))}
             <article className="pb-8">
-              <h1 className="mt-4 mb-5 ml-4 text-2xl font-semibold text-gray-600 dark:text-gray-200">
+              <h1 className="mt-4 mb-5 ml-4 text-2xl font-semibold text-gray-600 dark:text-yellow-400">
                 {t("news.h6")}
               </h1>
               <p className="ml-4 font-medium text-gray-600 text-md max-w-[1000px] dark:text-gray-300">
                 {t("news.p5")}
               </p>
             </article>
+            {/* <Firstnew/> */}
           </div>
         </div>
       </div>

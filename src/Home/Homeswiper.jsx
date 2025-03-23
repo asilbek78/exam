@@ -24,7 +24,7 @@ function Homeswiper() {
       <div className="p-4 container ">
         {isLoading && <h1>Loading...</h1>}
         <article className="flex text-center pb-9">
-          <h1 className="container text-[27px] font-medium dark:text-teal-50">
+          <h1 className="container text-[27px] font-medium dark:text-teal-50" data-aos="fade-up">
             {t("homeh1.nom")}
           </h1>
           {/* <p onClick={() => setTheme(theme === "light" ? "dark" : "light")}></p> */}
@@ -47,11 +47,11 @@ function Homeswiper() {
           }}
           modules={[EffectCoverflow, Autoplay]}
           className=" w-[70%] m-auto"
+          data-aos="fade-zoom-in"
         >
           {two?.homefood &&
             two?.homefood.map((item, id) => (
               <SwiperSlide
-              data-aos="flip-left"
                 key={id}
                 className="p-3 duration-300 bg-gray-100 border rounded-lg dark:text-red dark:bg-gray-900 hover:drop-shadow-xl"
               >

@@ -5,7 +5,7 @@
     "nav3": "News",
     "nav4": "Featured",
     "nav5": "Login",
-    "nav6":"Vacancy"
+    "nav6": "Vacancy"
   },
   "homeh1": {
     "nom": "All of these dishes are 30% off !!!"
@@ -19,6 +19,19 @@
     "li2": "Japanese Dishes",
     "li3": "Seafood"
   },
+  "about": {
+    "top": "Afsana Restaurant",
+    "bottom": "It stands out with the perfect combination of modern and traditional dishes. At Afsana Restaurant, guests are welcomed with exquisite dishes, a unique atmosphere, and unforgettable experiences. Each dish is presented with uniqueness, using updated recipes and ingredients.",
+    "h1": "About the Restaurant",
+    "p1": "Afsana Restaurant was founded on July 1, 2024. According to the founder and CEO of the restaurant, Asilbek Ochilov, the main goal of the restaurant is to present Uzbek national dishes in a modern and high-quality manner while providing customers with an unforgettable experience. The philosophy of Afsana Restaurant is to introduce Uzbek national cuisine to the world, provide high-quality service, and meet all customer needs.",
+    "p2": "The restaurant's initial team consisted of 15 people, and today, the team has grown to more than 50 qualified chefs and service staff. Each team member believes in the restaurant's goals, develops their professional skills, and strives to provide the best service to customers. These individuals contribute significantly to the restaurant's growth and remain dedicated to their work.",
+    "h2": "Brief Information About the Restaurant's Dishes!",
+    "p3": "Our restaurant currently prepares a variety of delicious dishes. Each dish stands out with its unique taste, aroma, and high-quality ingredients. You can enjoy both national and international cuisine. Our menu, which is updated daily, includes the most delicious soups, main courses, salads, and desserts.",
+    "h3": "Our Main Goal",
+    "p4": "Our main goal is to provide our customers with high-quality, delicious, and healthy dishes. In the preparation of each dish, we use only natural, fresh, and eco-friendly products. The experience and craftsmanship of our chefs give each dish a unique taste and aesthetic appeal. Quality food is our top priority. That’s why we prepare each dish according to precise standards and requirements.",
+    "p5": "Additionally, we not only prepare food but also continuously evolve so that our guests can enjoy unforgettable experiences, a pleasant atmosphere, and the best flavors of Uzbek and international cuisine while receiving top-tier service.",
+    "p6": "It is very important for us that every guest feels comfortable, respected, and special in our restaurant. The harmony of quality, traditions, and innovations is our core principle. In our restaurant, every guest is welcomed with unique dishes, unforgettable flavors, and excellent service. Your trust is our greatest source of inspiration!"
+},
   "news": {
     "h1": "Afsona News",
     "p": "Every week, our restaurant has new dishes, special discounts, and great promotions waiting for you! Stay with us to enjoy the delicious news! Don't miss out on our updates! Follow us to stay informed about the latest offers and special events!",
@@ -40,23 +53,41 @@
     "h2": "Please fill in all the fields!",
     "h3": "There was an error,",
     "h4": "Have questions?",
-    "h5": "Enter your name",
+    "h5": "Enter your full name",
     "h6": "Enter your number (884347808)",
     "h7": "Write your questions",
     "h8": "Submit",
     "h9": "Your Name",
     "h10": "Phone Number",
     "h11": "Questions",
-    "h12":"Enter your opinion about our restaurant!",
-    "h13":"To write a review...",
-    "h14":"Written reviews:"
+    "h12": "Enter your opinion about our restaurant!",
+    "h13": "To write a review...",
+    "h14": "Written reviews:",
+    "h15": "Job application.",
+    "h16": "Application",
+    "h17": "Which profession are you applying for?"
   },
-  "menu": {
-    "h1": "Afsona Menu",
-    "p": "We serve you with delicious and unique dishes! Our menu features national and international dishes prepared from fresh and high-quality ingredients. Each dish is made using a special recipe to provide our guests with an unforgettable taste. Feel the taste and quality – enjoy delightful moments with us!",
+ "menu": {
+    "h1": "Legend Menu",
+    "p": "We serve you with delicious and unique dishes! Our menu includes national and international dishes made from fresh and high-quality ingredients. Each dish is prepared with a special recipe to offer our guests an unforgettable taste. Feel the taste and quality – enjoy delightful moments with us!",
     "h2": "Turkish National Dishes",
-    "h3": "Halal Japanese Dishes",
-    "h4": "Halal Seafood Dishes",
-    "btn": "Go Back"
+    "h3": "Japanese Halal Dishes",
+    "h4": "Halal Seafood",
+    "btn": "Go back",
+    "h5": "Dish not found",
+    "h6": "Your order has been sent!",
+    "h7": "An error occurred!",
+    "h8": "Number of meals",
+    "h9": "Your table number",
+    "h10": "Your card number",
+    "h11": "Additional orders and suggestions",
+    "h12": "Submit",
+    "h13": "Cancel"
+},
+  "vac": {
+    "h1": "Afsona Restaurant Job Vacancies",
+    "h2": "department",
+    "h3": "UZS",
+    "h4": "Working hours: Monday - Friday, 09:00 - 18:00"
   }
 }

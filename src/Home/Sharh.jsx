@@ -31,7 +31,7 @@ const {t} = useTranslation()
     <div className=" dark:bg-gray-900 w-full h-full pt-10 pb-2">
     <div className=" container ">
       <div className="flex flex-col items-center p-5 dark:bg-gray-800 w-[48%] m-auto h-auto border rounded-xl bg-gray-200">
-      <h1 className="text-2xl dark:text-gray-100 text-gray-900 font-medium mt-2 mb-5">
+      <h1 className="text-2xl dark:text-yellow-500 text-gray-900 font-semibold mt-2 mb-5">
         {t("home.h12")}
       </h1>
       {notification && (

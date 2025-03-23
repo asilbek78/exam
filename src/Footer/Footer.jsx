@@ -10,33 +10,33 @@ function Footer() {
     <>
       {isLoading && <h1>Loading...</h1>}
       <section className=" bg-[#3b3b3b] w-full dark:bg-gray-800">
-        <div className=" container w-full h-[280px] flex justify-around items-center transition duration-300">
+        <div  className=" container w-full h-[280px] flex justify-around items-center transition duration-300">
           <div className="flex flex-col gap-4 ">
-            <h1 className="text-xl font-bold text-white ">{t("footers.h1")}</h1>
-            <h4 className=" text-[15px] max-w-[300px] text-[#b6b5b5] font-semibold">
+            <h1 className="text-xl text-yellow-400 font-bold">{t("footers.h1")}</h1>
+            <h4 className=" text-[15px] max-w-[300px] text-gray-100 font-sans">
               {t("footers.h4")}
             </h4>
           </div>
           <div className="w-[200px] flex flex-col gap-4">
-            <h1 className="text-xl font-bold text-white">{t("footers.h21")}</h1>
-            <ul className=" text-[15px] text-[#b6b5b5] font-semibold flex flex-col gap-1">
+            <h1 className="text-xl text-yellow-400 e font-bold">{t("footers.h21")}</h1>
+            <ul className=" text-[15px] text-gray-100 font-semibold flex flex-col gap-1">
               <Link to={"/uzbek"}>
-              <li className="transition duration-200 cursor-pointer hover:text-zinc-500">
+              <li className="transition duration-200 cursor-pointer hover:text-zinc-400 ">
                 {t("footers.li")}
               </li>
               </Link>
               <Link to={"/turk"}>
-              <li className="transition duration-200 cursor-pointer hover:text-zinc-500">
+              <li className="transition duration-200 cursor-pointer hover:text-zinc-400">
                 {t("footers.li1")}
               </li>
               </Link>
               <Link to={"/yapon"}>
-              <li className="transition duration-200 cursor-pointer hover:text-zinc-500">
+              <li className="transition duration-200 cursor-pointer hover:text-zinc-400">
                 {t("footers.li2")}
               </li>
               </Link>
               <Link to={"/dengiz"}>
-              <li className="transition duration-200 cursor-pointer hover:text-zinc-500">
+              <li className="transition duration-200 cursor-pointer hover:text-zinc-400">
                 {t("footers.li3")}
               </li>
               </Link>
@@ -44,22 +44,22 @@ function Footer() {
           </div>
           {three?.footer.map((item, id) => (
             <div key={id} className=" flex gap-10">
-              <div className="flex flex-col gap-[10px]">
-                <h1 className=" mb-[6px] text-white text-xl font-bold">
+              <div className="flex flex-col gap-[11px]">
+                <h1 className="text-yellow-400  mb-[6px] text-xl font-bold">
                   {item.h1[i18n.language]}
                 </h1>
                 <Link>
                 <article className="flex items-center group gap-2 cursor-pointer ">
-                  <Phone className="text-white group-hover:text-gray-400" />
-                  <h2 className=" transition duration-200 text-lg mt-[-7px] hover:text-zinc-500  text-[#c2c1c1] font-semibold ">
+                  <Phone className="text-white group-hover:text-gray-300" />
+                  <h2 className=" transition duration-200 text-lg mt-[-7px] group-hover:text-gray-300  text-gray-100 font-semibold ">
                     {item.num}
                   </h2>
                 </article>
                 </Link>
                 <Link to={"https://asilbekochilov778@gmail.com"}>
                 <article className="flex items-center gap-2 cursor-pointer group ">
-                  <Mail className="text-white group-hover:text-gray-400" />
-                  <h2 className=" transition duration-200 text-lg mt-[-5px] group-hover:text-zinc-500  text-[#c2c1c1] font-semibold">
+                  <Mail className="text-white group-hover:text-gray-300" />
+                  <h2 className=" transition duration-200 text-lg mt-[-5px] group-hover:text-gray-300  text-gray-100 font-semibold">
                     {item.h2}
                   </h2>
                 </article>
@@ -67,7 +67,7 @@ function Footer() {
                 <Link to={"https://t.me/Akmalovich_783"}>
                 <article className="flex items-center gap-2 group cursor-pointer ">
                   <Send className="text-white group-hover:text-gray-400 duration-200" size={24} />
-                  <h2 className=" duration-200 text-lg mt-[-5px] group-hover:text-zinc-500  text-[#c2c1c1] font-semibold">
+                  <h2 className=" duration-200 text-lg mt-[-5px] group-hover:text-gray-300  text-gray-100 font-semibold">
                     {item.h21}
                   </h2>
                 </article>
@@ -75,7 +75,7 @@ function Footer() {
                 <Link to={"https://www.instagram.com/Akmalovich_783/"}>
                 <article className="flex items-center gap-2 cursor-pointer group">
                   <Instagram className=" text-white group-hover:text-gray-400" />
-                  <h2 className="transition duration-200 text-lg mt-[-5px] hover:text-zinc-500  text-[#c2c1c1] font-semibold">
+                  <h2 className="transition duration-200 text-lg mt-[-5px] group-hover:text-gray-300  text-gray-100 font-semibold">
                     {item.h22}
                   </h2>
                 </article>

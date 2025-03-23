@@ -10,8 +10,12 @@ function Yapon() {
       {isLoading && <h1>Loading...</h1>}
       <div className="dark:bg-gray-900">
         <div className=" container h-auto">
-          <span className="flex justify-center ">
-            <h1 className="dark:text-white text-[40px] font-semibold text-gray-700 mt-5">
+          <span className="flex justify-center "
+          
+          >
+            <h1
+              data-aos="fade-down"
+             className="dark:text-yellow-400 text-[40px] font-semibold text-gray-700 mt-5">
               {t("menu.h3")}
             </h1>
           </span>
@@ -19,6 +23,7 @@ function Yapon() {
             {eight?.yapontaomlar?.map((item, id) => (
               <div
                 key={id}
+                data-aos="zoom-in"
                 className="gap-2 hover:shadow-md dark:bg-[#0f152a] hover:shadow-black h-[470px] max-w-[350px] bg-white group border rounded-lg shadow-sm shadow-black flex flex-col p-4"
               >
                 <img

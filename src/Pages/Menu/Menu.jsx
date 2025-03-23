@@ -17,14 +17,14 @@ function Menu() {
       <div className="w-full bg-slate-50 h-auto dark:bg-gray-900">
         {isLoading && <h1>Loading...</h1>}
         <div className="container">
-          <span className="flex items-center justify-center gap-3 text-center">
+          <span data-aos="fade-down" className="flex items-center justify-center gap-3 text-center">
             <h1 className="text-6xl font-bold text-orange-600 dark:text-orange-500">
               {t("menu.h1")}
             </h1>
             <img className="animate-spin-slow max-w-36" src={Img} alt="logo" />
           </span>
           <Homeswiper />
-          <p className=" mt-10"></p>
+          <p className=" mt-6"></p>
           <Uzbek />
           <Turk />
           <Yapon />

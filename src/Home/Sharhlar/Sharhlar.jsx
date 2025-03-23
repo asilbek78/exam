@@ -13,7 +13,7 @@ function Sharhlar() {
     <div className=" dark:bg-gray-900">
       {isLoading && <h1>Loading...</h1>}
       {datas?.ideah.map((item, id) => (
-        <div key={id}>
+        <div data-aos="flip-up" key={id}>
           <p onClick={() => setTheme(theme === "light" ? "dark" : "light")}></p>
           <article className="flex flex-col text-center gap-3">
             <h1 className=" text-4xl font-semibold text-[#202020e5] dark:text-white">
@@ -26,6 +26,7 @@ function Sharhlar() {
       <div className=" mt-7 pb-7 container grid grid-cols-2 md:grid-cols-3 gap-6 m-auto">
         {datas?.sharhlar.map((item, id) => (
           <div
+          data-aos="flip-right"
             key={id}
             className="h-[300px] border rounded-lg transition duration-300 shadow-sm dark:shadow-sm hover:scale-[1.03] dark:hover:shadow-white shadow-gray-400  hover:shadow-lg flex flex-col gap-3 p-4"
           >

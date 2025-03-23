@@ -53,16 +53,19 @@
     "h2":"Iltimos, barcha maydonlarni to'ldiring!",
     "h3":"Sizda Xatolik yuz berdi,",
     "h4":"Savollar uchun?",
-    "h5":"Ismingizni kiriting",
+    "h5":"To'liq ismingizni kiriting",
     "h6":"Raqamingizni kiriting (884347808)",
     "h7":"Savollaringizni yozing",
     "h8":"Yuborish",
     "h9":"Ismingiz",
     "h10":"Telefon Raqam",
     "h11":"Savollar",
-    "h12":"Restoranimiz haqida o`z fikringizni kiriting!",
+    "h12":"Restoranimiz haqida o'z fikringizni kiriting!",
     "h13":"Sharh yozish uchun...",
-    "h14":"Yozilgan sharhlar:"
+    "h14":"Yozilgan sharhlar:",
+    "h15":"Ishga ariza berish.",
+    "h16":"Ariza",
+    "h17":"Qaysi kasbga ariza bermoqchisiz?"
   },
   "menu":{
     "h1":"Afsona Menyusi",
@@ -70,6 +73,21 @@
     "h2":"Turk Milliy Ta'omlari",
     "h3":"Yapon Halol Ta'omlari",
     "h4":"Halol Dengiz Mahsulotlari",
-    "btn":"Ortga qaytish"
+    "btn":"Ortga qaytish",
+    "h5":"Taom topilmadi",
+    "h6":"Buyurtmangiz yuborildi!",
+    "h7":"Xatolik yuz berdi!",
+    "h8":"Ovqat soni",
+    "h9":"Stol raqamingiz",
+    "h10":"Karta raqamingiz",
+    "h11":"Qo'shimcha buyurtmalar va takliflar",
+    "h12":"Yuborish",
+    "h13":"Bekor qilish"
+  },
+  "vac":{
+    "h1":"Afsona Restorani Ish O'rinlari",
+    "h2":"bo'limi",
+    "h3":"so'm",
+    "h4":"Ish vaqti: Dushanba - Juma, 09:00 - 18:00"
   }
 }

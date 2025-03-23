@@ -8,8 +8,8 @@ function Bot() {
     message: "",
   });
 
-  const botToken = "7570891236:AAECbI839KpZn3-jd3hwODsENWc73x6NvYA";
-  const chat_id = 7151641918;
+  const botToken = "7831496308:AAG0m9bCk3jpf_-LtEozHCTDAI8i8zsT0B0";
+  const chat_id = 7298677336;
 
   const handleOnSubmit = async (e) => {
     e.preventDefault();
@@ -50,7 +50,7 @@ function Bot() {
     <div className="dark:bg-gray-900">
       <div className="container pb-10  ">
         <form
-          onSubmit={handleOnSubmit}
+          onSubmit={handleOnSubmit}  data-aos="fade-down"
           className="m-auto flex flex-col items-center w-[42%] dark:bg-gray-800 py-5 border-[2px] rounded-xl bg-gray-600"
         >
           <p className="text-3xl text-white font-bold text-center mb-6">

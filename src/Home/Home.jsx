@@ -10,32 +10,30 @@ import Sharhlar from "./Sharhlar/Sharhlar";
 import { useTranslation } from "react-i18next";
 import { UseFetch } from "../Hook/UseFetch";
 import Homeswiper from "./Homeswiper";
-import { useTheme } from "../Hook/UseTheme";
 import Bot from "./Bot";
-// import Sharh from "./Sharh";
-import AOS from "aos"
 import { useEffect } from "react";
+import "aos/dist/aos.css";
+import AOS from "aos";
 
 function Home() {
   const { t, i18n } = useTranslation();
   const { data: one, isLoading } = UseFetch("/public/db.json");
 
-  const [theme, setTheme] = useTheme("");
   useEffect(() => {
-    AOS.init({ duration: 1000, once: true }); // Animatsiya davomiyligi 1s, faqat bir marta
+    AOS.init({ duration: 1000, once: true });
   }, []);
   return (
     <>
       {isLoading && <h1>Loading...</h1>}
-      <div className=" bgi w-[100%] h-auto">
-        <p onClick={() => setTheme(theme === "light" ? "dark" : "light")}></p>
+      <div className=" bgi w-[100%] !h-[88vh]">
         <div
           data-aos="fade-bottom"
-          className="container w-full h-[90vh] grid grid-cols-2 items-center"
+          className="container w-full h-[100%] grid grid-cols-2 items-center"
         >
           {one?.otish.map((item, id) => (
-            <article
-              key={id} data-aos="zoom-in"
+            <article 
+              key={id}
+              data-aos="zoom-in"
               className=" scale-100 bg-[#f1f1f1a1] dark:bg-[#2727279a] imgs ml-4 w-[600px] h-[330px] border rounded-md flex flex-col transition duration-300 gap-8 hover:shadow-gray-500 items-center  p-6 shadow-md hover:shadow-md"
             >
               <span className="flex flex-col items-center gap-1">
@@ -46,7 +44,7 @@ function Home() {
                   {item?.h11?.[i18n.language]}
                 </h1>
               </span>
-              <p className="font-medium text-center dark:text-white">
+              <p className="font-medium text-center dark:text-gray-100">
                 {item.p[i18n.language]}
               </p>
               <Link to={"/menu"}>
@@ -89,7 +87,8 @@ function Home() {
               delay: 1700,
               disableOnInteraction: false,
             }}
-            modules={[Autoplay, Navigation]} data-aos="fade-left"
+            modules={[Autoplay, Navigation]}
+            data-aos="fade-left"
             className=" scale-100 mt-12 w-[500px] h-[330px] border rounded-md"
           >
             {one?.homeswiper.map((item, id) => (
@@ -106,17 +105,16 @@ function Home() {
       </div>
       <p className="pb-5 dark:bg-gray-900 "></p>
       <Homeswiper />
-      <div className="pb-5 dark:bg-gray-900 pt-14" data-aos="fade-right">
-        <div className="container flex flex-col items-center gap-4 mb-3 ">
-          <h1 className="mb-3 text-3xl text-gray-800 font-sans dark:text-white">
+      <div className="pb-5 dark:bg-gray-900 pt-14">
+        <div className="container flex flex-col items-center gap-4 mb-3">
+          <h1  data-aos="fade-right" className="mb-3 text-3xl text-gray-800 font-sans dark:text-white">
             {t("home.h1")}
           </h1>
-          <video className="w-[950px] border rounded-xl" autoPlay loop muted>
+          <video  data-aos="fade-left" className="w-[950px] border rounded-xl" autoPlay loop muted>
             <source src={video} type="video/mp4" />
           </video>
         </div>
       </div>
-      {/* <Sharh /> */}
       <Bot />
       <Sharhlar />
     </>
